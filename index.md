@@ -1,1 +1,1 @@
-This is the first note.
+This is the main page.

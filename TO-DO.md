@@ -1,0 +1,11 @@
+- [x] Chapter 1 CPS101 into Anki
+- [ ] Chapter 2 CPS101 into Anki
+- [ ] what is assembler
+- [ ] Invitation to Computer Science, C++ Version, Fourth Edition
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
