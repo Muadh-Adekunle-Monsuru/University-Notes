@@ -1,4 +1,4 @@
-This course is about computer hardware. 
+## Computer Hardware
 
 ## Two Sections of CPS 205:
 

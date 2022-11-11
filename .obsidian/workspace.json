@@ -6,32 +6,56 @@
       {
         "id": "2d45c262dcd4f467",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "5d7b7605148be7ce",
+            "id": "78580428cad41096",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 205/CPS 205 INDEX.md",
+                "file": "CPS 101/Classification of Computer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "786b0844ef8ca55b",
+            "id": "8a827d1fd746819f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 205/CPS 205 INDEX.md",
+                "file": "CPS 101/Introduction to Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a312f7817174bbbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 101/Go Forth and Multiply.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b16befe270007d1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CPS 101/Documents/Chapter 2.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c6423d6357a6c7a4",
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 205/CPS 205 INDEX.md",
+                "file": "CPS 101/Documents/Chapter 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 205/CPS 205 INDEX.md",
+                "file": "CPS 101/Documents/Chapter 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 205/CPS 205 INDEX.md"
+                "file": "CPS 101/Documents/Chapter 2.pdf"
               }
             }
           }
@@ -148,16 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5d7b7605148be7ce",
+  "active": "6b16befe270007d1",
   "lastOpenFiles": [
-    "Recording 20221107081134.webm",
-    "CPS 205/CPS 205 INDEX.md",
-    "Main Index.md",
-    "CPS 101/Assignment 2.md",
-    "CPS 101/Documents/Chapter 1.pdf",
+    "CPS 101/Go Forth and Multiply.md",
+    "CPS 101/Introduction to Algorithm.md",
     "CPS 101/CPS 101 INDEX.md",
-    "TO-DO.md",
+    "Main Index.md",
+    "To-Do.md",
+    "CPS 101/Classification of Computer.md",
     "CPS 101/Documents/Chapter 2.pdf",
-    "2022-11-05.md"
+    "CPS 101/Documents/Chapter 3.pdf",
+    "CPS 203/CPS 203 INDEX.md",
+    "CPS 205/CPS 205 INDEX.md"
   ]
 }

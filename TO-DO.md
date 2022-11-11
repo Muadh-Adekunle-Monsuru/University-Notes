@@ -1,6 +1,6 @@
-- [ ] what is assembler
-- [ ] 
-- [ ] 
+- [x] what is assembler
+- [x] CPS 205 Assignment 
+- [ ] Sliding Panes plugin
 - [ ] 
 - [ ] 
 - [ ] 
