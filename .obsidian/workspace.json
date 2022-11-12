@@ -6,56 +6,20 @@
       {
         "id": "2d45c262dcd4f467",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "78580428cad41096",
+            "id": "26734984de3b851b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 101/Classification of Computer.md",
+                "file": "CPS 101/Pseudocode Example 4 - Meeting Your Match.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8a827d1fd746819f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 101/Introduction to Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a312f7817174bbbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 101/Go Forth and Multiply.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b16befe270007d1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CPS 101/Documents/Chapter 2.pdf"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 236.50235748291016,
     "collapsed": true
   },
   "right": {
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 101/Documents/Chapter 2.pdf",
+                "file": "CPS 101/Pseudocode Example 4 - Meeting Your Match.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 101/Documents/Chapter 2.pdf",
+                "file": "CPS 101/Pseudocode Example 4 - Meeting Your Match.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 101/Documents/Chapter 2.pdf"
+                "file": "CPS 101/Pseudocode Example 4 - Meeting Your Match.md"
               }
             }
           }
@@ -173,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b16befe270007d1",
+  "active": "26734984de3b851b",
   "lastOpenFiles": [
-    "CPS 101/Go Forth and Multiply.md",
     "CPS 101/Introduction to Algorithm.md",
-    "CPS 101/CPS 101 INDEX.md",
-    "Main Index.md",
-    "To-Do.md",
-    "CPS 101/Classification of Computer.md",
+    "CPS 101/Pseudocode Example 2 - Looking, Looking, Looking.md",
     "CPS 101/Documents/Chapter 2.pdf",
-    "CPS 101/Documents/Chapter 3.pdf",
-    "CPS 203/CPS 203 INDEX.md",
-    "CPS 205/CPS 205 INDEX.md"
+    "CPS 101/Documents/Images/iterativeoperation.png",
+    "CPS 101/Documents/Invitation To Comp Sci.pdf",
+    "CPS 101/Documents/Images/Conditional Operation.png",
+    "CPS 101/Pseudocode Example 4 - Meeting Your Match.md",
+    "CPS 101/Classification of Computer.md",
+    "CPS 101/Pseudocode Example 3 - Big, Bigger, Biggest.md",
+    "CPS 101/Pseudocode Example 1 - Go Forth and Multiply.md"
   ]
 }

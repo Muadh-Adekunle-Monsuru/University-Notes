@@ -34,21 +34,29 @@ These are the “looping” instructions of an algorithm. They tell us not to go
 
 The first algorithmic statement that we will use to express the idea of iteration, also called **looping**, is the while statement:
 
-![while|200](CPS%20101/Documents/while%20loop.png)
-This instruction initially evaluates the “true/false condition”—called the **continuation condition**—to determine if it is true or false. If the condition is true, all operations from step *i* to step *j*, inclusive, are executed. This block of operations is called the **loop body**. 
+![while|200](CPS%20101/Documents/Images/while%20loop.png)
+This instruction initially evaluates the “true/false condition”—called the **continuation condition**—to determine if it is true or false. If the condition is
+true, all operations from step *i* to step *j*, inclusive, are executed. This block of operations is called the **loop body**. 
 
 When the entire loop body has finished executing, the algorithm again evaluates the continuation condition. If it is still true, then the algorithm executes the entire loop body, statements *i* through *j*, again.
 
 This looping process continues until the continuation condition evaluates to false, at which point execution of the loop body terminates and the algorithm proceeds to the statement immediately following the loop.
 
-![iterative|200](CPS%20101/Documents/iterativeoperation.png)
+![iterative|200](CPS%20101/Documents/Images/iterativeoperation.png)
 
 > [!EXAMPLE]
 > - Repeat the previous two operations until the mixture has thickened. 
 > - While there are still more checks to be processed, do the following five steps. 
 > - Repeat steps 1, 2, and 3 until the value of y is equal to +1
 
-[[Go Forth and Multiply]]
+### Pseudocode Examples:
+[[CPS 101/Pseudocode Example 1 - Go Forth and Multiply]]
+
+[[Pseudocode Example 2 - Looking, Looking, Looking]]
+
+[[Pseudocode Example 3 - Big, Bigger, Biggest]]
+
+[[Pseudocode Example 4 - Meeting Your Match]]
 - ### Conditional Operations:
 These are the “question-asking” instructions of an algorithm. They ask a question, and the next operation is selected on the basis of the answer to that question.
 
@@ -56,7 +64,7 @@ These are the “question-asking” instructions of an algorithm. They ask a que
 2. If the condition is true, then do the first set of algorithmic operations and skip the second set entirely. 
 3. If the condition is false, then skip the first set of operations and do the second set. 
 4. Once the appropriate set of operations has been completed, continue executing the algorithm with the operation that follows the if/then/else instruction.
-![Conditional|200](CPS%20101/Documents/Conditional%20Operation.png)
+![Conditional|200](CPS%20101/Documents/Images/Conditional%20Operation.png)
 
 
 > [!EXAMPLE]
@@ -72,12 +80,12 @@ These are the “question-asking” instructions of an algorithm. They ask a que
 - #### Pretest Loop
 It is called a **Pretest loop** because the continuation condition is tested at the **beginning** of *each* pass through the loop, and therefore it is possible for the loop body never to be executed. This would happen if the continuation condition were initially false.
 
-![loop2|200](CPS%20101/Documents/while%20loop.png)
+![loop2|200](CPS%20101/Documents/Images/while%20loop.png)
 
 - #### Posttest Loop
 
 Posttest loop also uses a true/false continuation condition to control execution of the loop. However, the test is done at the **end** of the loop body, not the beginning. The loop is typically expressed using the **do/while statement**,
-![dowhile|200](CPS%20101/Documents/dowhileloop.png)
+![dowhile|200](CPS%20101/Documents/Images/dowhileloop.png)
 This type of iteration performs all the algorithmic operations contained in the loop body before it evaluates the true/false condition specified at the end of the loop. If this condition is false, the loop is terminated and execution continues with the operation following the loop. If it is true, then the entire loop body is executed again. Note that in the Do/While variation, the loop body is always executed at least once, w
 
 ---
