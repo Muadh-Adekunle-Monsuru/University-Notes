@@ -1,8 +1,13 @@
 - [x] what is assembler
 - [x] CPS 205 Assignment 
 - [ ] Sliding Panes plugin
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Dowload FORTRAN Complier
+- [ ] FORTRAN 95/2003 for Engineers and scientists By Chapman
+- [ ] FORTRAN Lecture Notes by David Apsley
+- [ ] Silverfrost FTN95 Student Edition
+- [ ] cps 205 assignment
+- [ ] Joic cps 205 classroom
+- [ ] cps 205 into anki
+- [ ] cps 201 into anki
+- [ ] Fortran on coursera
 - [ ] 

@@ -1,4 +1,5 @@
 ## Computer Hardware
+Mrs Abdulsalam
 
 ## Two Sections of CPS 205:
 
@@ -10,5 +11,9 @@
 ### Peripherals of Computer:
 - Inputs
 - Outputs
-- Storage
+- Primary Storage
 - CPUs
+- Secondary Storage
+
+[[Unit 1]]
+[[Module 1]]
