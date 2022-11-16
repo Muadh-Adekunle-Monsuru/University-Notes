@@ -4,47 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "2d45c262dcd4f467",
+        "id": "967867118e2cdcbb",
         "type": "tabs",
         "children": [
           {
-            "id": "26734984de3b851b",
+            "id": "1bf741c5ad80d02f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CPS 101/Documents/Chapter 4.pdf"
+              }
+            }
+          },
+          {
+            "id": "a7b198b19ee7d0d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Index.md",
+                "file": "CPS 101/Documents/CLASS 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fb1e22f745b8f533",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 201/Introcution to Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e61e4454e9bb12f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 201/FORTRAN BASICS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "472da3428b704db2",
+            "id": "ce978954083cf44d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,31 +42,19 @@
             }
           },
           {
-            "id": "b30f290ecf67e795",
+            "id": "b5e17ff5ff359fdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 201/CPS 201 INDEX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a54fc69e92e75f6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To-Do.md",
+                "file": "Statistical inferenece II.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 201/FORTRAN BASICS.md",
+                "file": "Statistical inferenece II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 201/FORTRAN BASICS.md",
+                "file": "Statistical inferenece II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 201/FORTRAN BASICS.md"
+                "file": "Statistical inferenece II.md"
               }
             }
           }
@@ -194,20 +168,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
-  "active": "e61e4454e9bb12f4",
+  "active": "b5e17ff5ff359fdd",
   "lastOpenFiles": [
-    "CPS 201/Introcution to Programming.md",
-    "Drafts.md",
     "To-Do.md",
-    "CPS 201/CPS 201 INDEX.md",
-    "CPS 205/Unit 1.md",
-    "CPS 101/Pseudocode Example 4 - Meeting Your Match.md",
-    "CPS 205/CPS 205 INDEX.md",
     "CPS 205/Module 1.md",
-    "CPS 205/Assignment 1.md",
-    "CPS 205/Untitled.md"
+    "CPS 205/CPS 205 INDEX.md",
+    "CPS 205/Unit 1.md",
+    "CPS 101/Documents/Assignment 3.md",
+    "CPS 101/Documents/CLASS 4.md",
+    "CPS 101/Documents/Chapter 4.pdf",
+    "CPS 101/Documents/Chapter 3.pdf",
+    "CPS 205/Document/Lecture5-Karnaugh Map.pdf",
+    "Drafts.md"
   ]
 }
