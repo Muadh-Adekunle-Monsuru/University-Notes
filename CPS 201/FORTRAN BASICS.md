@@ -24,13 +24,13 @@ Special Characters !@#$%^&*()_+{}:">
 
 
 #### **Rules for forming valid variable name:**
-1. The first character must an alphabet and underscore_
+1. The first character must an alphabet or underscore_
 2. Must not have an embedded whitespace character
 3. Must not have embedded special character
 4. Must not have an embedded number character:
 			*x9b* is **wrong** while xb9 *is* **right**
 5. Cannot be more than 32 characters long
-6. Must not be a reserved word; eg interger, auto, if, then, do, else
+6. Must not be a reserved word; eg integer, auto, if, then, do, else
 
 #### 5 Valid & Invalid Variable Name:
 

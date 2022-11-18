@@ -50,13 +50,13 @@ This looping process continues until the continuation condition evaluates to fal
 > - Repeat steps 1, 2, and 3 until the value of y is equal to +1
 
 ### Pseudocode Examples:
-[[CPS 101/Pseudocode Example 1 - Go Forth and Multiply]]
+[[CPS 101/Non-Notes/Pseudocode Example 1 - Go Forth and Multiply]]
 
-[[Pseudocode Example 2 - Looking, Looking, Looking]]
+[[CPS 101/Non-Notes/Pseudocode Example 2 - Looking, Looking, Looking]]
 
-[[Pseudocode Example 3 - Big, Bigger, Biggest]]
+[[CPS 101/Non-Notes/Pseudocode Example 3 - Big, Bigger, Biggest]]
 
-[[Pseudocode Example 4 - Meeting Your Match]]
+[[CPS 101/Non-Notes/Pseudocode Example 4 - Meeting Your Match]]
 - ### Conditional Operations:
 These are the “question-asking” instructions of an algorithm. They ask a question, and the next operation is selected on the basis of the answer to that question.
 

@@ -1,7 +1,4 @@
-## Computer Hardware
-Mrs Abdulsalam
-
-## Two Sections of CPS 205:
+ions of CPS 205:
 
 ### Computer Design:
 - Circuit Fundamentals
@@ -15,5 +12,5 @@ Mrs Abdulsalam
 - CPUs
 - Secondary Storage
 
-[[Unit 1]]
-[[Module 1]]
+**Class 1:**
+- [Module 1]]

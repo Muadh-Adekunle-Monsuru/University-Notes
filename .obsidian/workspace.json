@@ -8,53 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bf741c5ad80d02f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CPS 101/Documents/Chapter 4.pdf"
-              }
-            }
-          },
-          {
-            "id": "a7b198b19ee7d0d5",
+            "id": "f1fdc955aae3d7d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 101/Documents/CLASS 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce978954083cf44d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To-Do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5e17ff5ff359fdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistical inferenece II.md",
+                "file": "CPS 207/Programming Languages.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -104,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.50235748291016
+    "width": 236.50235748291016,
+    "collapsed": true
   },
   "right": {
     "id": "c6423d6357a6c7a4",
@@ -120,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistical inferenece II.md",
+                "file": "CPS 207/Programming Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistical inferenece II.md",
+                "file": "CPS 207/Programming Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistical inferenece II.md"
+                "file": "CPS 207/Programming Languages.md"
               }
             }
           }
@@ -171,17 +138,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "b5e17ff5ff359fdd",
+  "active": "f1fdc955aae3d7d6",
   "lastOpenFiles": [
-    "To-Do.md",
+    "CPS 207/CPS 207 INDEX.md",
+    "CPS 207/Programming Languages.md",
+    "CPS 201/Introcution to Programming.md",
+    "GNS 101/GNS 101.pdf",
     "CPS 205/Module 1.md",
-    "CPS 205/CPS 205 INDEX.md",
-    "CPS 205/Unit 1.md",
-    "CPS 101/Documents/Assignment 3.md",
-    "CPS 101/Documents/CLASS 4.md",
-    "CPS 101/Documents/Chapter 4.pdf",
-    "CPS 101/Documents/Chapter 3.pdf",
-    "CPS 205/Document/Lecture5-Karnaugh Map.pdf",
-    "Drafts.md"
+    "Drafts.md",
+    "CPS 101/Documents/Invitation To Comp Sci.pdf",
+    "CPS 101/Non-Notes/Pseudocode Example 2 - Looking, Looking, Looking.md",
+    "CPS 201/FORTRAN BASICS.md",
+    "CPS 205/CPS 205 INDEX.md"
   ]
 }

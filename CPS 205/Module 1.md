@@ -26,7 +26,6 @@ LSI - Large Scale Integration - 1000 - 10000 transistors
 VLSI - Very-large scale - 10,000 - 1,000,000 transistors
 
 Disadvantages of vacuum tubes:
-- Vacuum Tubes
 - Burn out
 - Slow
 - Big                                                 

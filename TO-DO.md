@@ -2,8 +2,6 @@
 - [ ] FORTRAN 95/2003 for Engineers and scientists By Chapman
 - [ ] cps 205 into anki
 - [ ] cps 201 into anki
-- [ ] Collect exeat form
-- [ ] Collect sta201 notes from governor
 - [ ] Submit score to governor
 
 
@@ -17,3 +15,5 @@
 - [x] Dowload FORTRAN Complier
 - [x] Silverfrost FTN95 Student Edition
 - [x] cps 205 assignment
+- [x] Collect exeat form
+ - [x] Collect sta201 notes from governor
