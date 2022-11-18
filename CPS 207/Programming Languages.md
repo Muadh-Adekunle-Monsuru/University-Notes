@@ -28,12 +28,13 @@ PHP
 ---
 **Difference between low-level and high-level languages** 
 - Low-level **faster** than high-level languages
--  Low- level are memory efficient than high-level
+- Low-level are memory efficient than high-level
 - Low-level are difficult to learn
 - Low-level are machine dependent
 - Low-level languages are more prone to error than high level
-- 
-- 
+- Low-level are difficult to debug and maintain
+- Low-level languages develop operating system and embedded application
+- High-level languages develop applications
 
 --- 
 **Definition of high-level language:**
