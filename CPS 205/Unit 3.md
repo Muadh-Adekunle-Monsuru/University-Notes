@@ -51,6 +51,7 @@ These gates are not sold individually they are sold in chips, a group of gates a
 
 - **The AND Gates:**
 Define an AND Gate:
+as
 
 
 
