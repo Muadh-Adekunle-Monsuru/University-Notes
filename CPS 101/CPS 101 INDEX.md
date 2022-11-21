@@ -10,3 +10,5 @@ Class:2
 
 Class 3:
 [[Binary Numbers, Boolean Logic, and gates]]
+
+Bookmark: Page 170

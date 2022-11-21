@@ -2,13 +2,27 @@ Computer Programming I
 
 ## FORTRAN 95
 
-Introduction to problem solving methods and algorithm development, designing, coding, debugging, coding, debugging and documenting programs using techniques of a good programming language style, programming language and programming algorithm development. 
+	*Introduction to problem solving methods and algorithm development, designing, coding, debugging, coding, debugging and documenting programs using techniques of a good programming language style, programming language and programming algorithm development.* 
 
+## Course Outline:k
+
+- Arrays:
+	- Subprograms
+	- Types of structure
+	- Modules
+
+- Apply all that in learned in advanced operation such as numerical methods
+- Logic of Programming
+- Program Loop
+- Fix and understand errors
+- 
+- Complex fixtures of programming
+- Complete understanding of FORTRAN
 
 ### Books:
 - Book: FORTRAN 95/2003 for Engineers and scientists By Chapman
 - FORTRAN Lecture Notes by David Apsley
--  the questions at the end of each chapter
+-  the questions at the end of each chapter of the book
 
 Class 1:
 - [[CPS 201/Introcution to Programming]]

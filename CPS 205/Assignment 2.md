@@ -6,3 +6,5 @@
 -   The use of VLSI in circuits has a high level of reliability. Unlike transistors.
 -   Operation speeds is drastically faster than previous generation.
 -   The device’s overall cost is now reduced.
+
+
