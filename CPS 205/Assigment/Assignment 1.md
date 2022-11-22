@@ -21,7 +21,7 @@ Nearly all modern IC chips are metal–oxide–semiconductor (MOS) integrated ci
 
 ## VLSI Technology 
 
-[Assignment 2](CPS%20205/Assignment%202.md)
+[Assignment 2](CPS%20205/Assigment/Assignment%202.md)
 
 VLSI Stands for **Very large-scale integration**. It is the process of creating an integrated circuit (IC) by combining millions or billions of MOS (metal-oxide-semiconductors) transistors onto a single chip. VLSI began in the 1970s when MOS ICs chips were widely adopted. The microprocessor and memory chips are examples of VLSI devices.
 

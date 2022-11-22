@@ -10,6 +10,11 @@ Special Characters !@#$%^&*()_+{}:">
 ### Variables & Constants
  
  **Define a Variable:** A variable is an alphabetic character or a combination of characters used to represent values to be used in our computation. 
+It is a place holder. 
+
+**Define a constant:**
+Any value whose quantity does not change in a program.
+
 
 #### Pseudocode for calculating average of three numbers:
 1. Start
@@ -32,8 +37,6 @@ Special Characters !@#$%^&*()_+{}:">
 5. Cannot be more than 32 characters long
 6. Must not be a reserved word; eg integer, auto, if, then, do, else
 
-#### 5 Valid & Invalid Variable Name:
 
-1
 
 

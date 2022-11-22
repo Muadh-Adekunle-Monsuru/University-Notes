@@ -1,4 +1,9 @@
+[14/11/2022]
+
+**Slide:**
 [UNIT1 AND 2](CPS%20205/Document/UNIT1%20AND%202.pdf)
+
+
 **Define active components in a circuit:**
 These components are **parts of a circuit that rely on an external power source to control or modify electrical signals**
 

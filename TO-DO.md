@@ -1,8 +1,7 @@
 
 - [ ] FORTRAN 95/2003 for Engineers and scientists By Chapman
-- [ ] cps 205 into anki
-- [ ] cps 201 into anki
-- [ ] Submit score to governor
+- [ ] Complete the logic gates
+
 
 
 ## Done:
@@ -16,4 +15,9 @@
 - [x] Silverfrost FTN95 Student Edition
 - [x] cps 205 assignment
 - [x] Collect exeat form
- - [x] Collect sta201 notes from governor
+- [x] Collect sta201 notes from governor
+- [x] cps 205 into anki
+- [x] cps 201 into anki
+- [x] Submit score to governor
+
+

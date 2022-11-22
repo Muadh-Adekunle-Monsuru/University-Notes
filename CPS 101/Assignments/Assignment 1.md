@@ -40,7 +40,7 @@ The first completely transistorized computer is the Harwell CADET of 1955, built
 
   
 
-The metal–oxide–silicon field-effect transistor (MOSFET), was invented at Bell Labs in 1959.[[CPS 205/Assignment 1]] It was the first truly compact transistor that could be miniaturised and mass-produced for a wide range of uses. The MOSFET made it possible to build high-density integrated circuits. The MOSFET led to the microcomputer revolution, and became the driving force behind the computer revolution.
+The metal–oxide–silicon field-effect transistor (MOSFET), was invented at Bell Labs in 1959.[[CPS 205/Assigment/Assignment 1]] It was the first truly compact transistor that could be miniaturised and mass-produced for a wide range of uses. The MOSFET made it possible to build high-density integrated circuits. The MOSFET led to the microcomputer revolution, and became the driving force behind the computer revolution.
 
   
 

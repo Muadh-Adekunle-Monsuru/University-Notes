@@ -1,2 +1,6 @@
-[[CPS 205/Unit 1 & 2]]
-                              [[Unit 3]]
+**Class 1**
+- [[CPS 205/Unit 1 & 2]]
+
+
+**Class 2**
+- [[Unit 3]]

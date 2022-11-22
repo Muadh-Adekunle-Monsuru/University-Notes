@@ -26,8 +26,9 @@
 - Literals
 - Basic Rules of Sum and product
 - Circuits simplification
----
 
+
+---
 
 
 
@@ -49,17 +50,127 @@ These gates are not sold individually they are sold in chips, a group of gates a
 ==How are the gates represented using truth table or circuit diagram or a symbolic method==
 *Give truth table and circuit diagram of gates when asked in the exam.* 
 
-- **The AND Gates:**
-Define an AND Gate:
-as
+Define a truth table:
+Used to show the relationship between the input values and the results of a specific Boolean operator.
+n = no of inputs
+whenever a truth tables is to be drawn, to know the number of rows the equation is $$ r = 2^n$$
+
+--- 
+
+#### The AND Gates:**
+
+Define a Boolean AND Gate: 
+- Also called boolean products, 
+- Means that given two inputs A,B  their boolean product gives the boolean expression
+- The output of an AND product will **always** be positive when **both** inputs are positive otherwise the output is **false.**
+ 
+**Symbolic way of Representation**  
+$$A*B =AB$$
+
+
+**Truth Table Representation**:
+A | B | OUTPUT
+--|--|--
+0|0|0
+0|1|0
+1|0|0
+1|1|1
+
+
+**Diagram representation** :
+
+![nd|300](CPS%20205/Document/Images/Pasted%20image%2020221121104938.png)
+
+---
+
+#### The OR Gates:
+
+In the which the output is 1 whenever one or more of the inputs is 1. The output is zero **only** when all inputs are zero
+
+**Symbolic Expression Representation**
+$$ A + B $$
+**Truth Table Representation:**
+
+
+A | B | OUTPUT
+--|--|--
+0|0|0
+0|1|1
+1|0|1
+1|1|1
+
+**Diagram Representation:**
+![or|300](CPS%20205/Document/Images/Pasted%20image%2020221121105321.png)
+
+---
+
+
+#### The NOT Gate 
+- Also called an inverter
+- Does the opposite of the input
+
+Symbolic Representation
+$$ A'$$ 
+ 
+
+A  | OUTPUT
+--|--
+0|1
+1|0
+
+
+**Diagram**
+![Not|300](CPS%20205/Document/Images/Pasted%20image%2020221121105032.png)
+
+
+---
+**NAND**:
+Combination of AND and NOT
+A NAND gate is basically the opposite/opponent of AND gate 
+The output is off when both inputs are on.
+
+Symbolic Representation:
+$$ A x B = AB bar$$
+
+Truth Table Representation:
+A | B | OUTPUT
+--|--|--
+0|0|1
+0|1|1
+1|0|1
+1|1|0
+
+**Diagram**
+
+
+---
+**NOR**:
+Combination of NOT and OR
+A NOR gate is the opponent of a OR Gate
+And works much in the same way as NAND and AND
+
+**Symbolic Representation:** 
+$$ (A + B) bar $$
+
+**Truth Table Representation**:
+A | B | OUTPUT
+--|--|--
+0|0|1
+0|1|0
+1|0|0
+1|1|0
 
 
 
+----
+**XNOR**
+When both inputs are the same whether
+
+---
+**XOR**
 
 
 
-
-
-
+---
 
 

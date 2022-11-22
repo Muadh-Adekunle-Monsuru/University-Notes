@@ -24,9 +24,11 @@ Computer Programming I
 - FORTRAN Lecture Notes by David Apsley
 -  the questions at the end of each chapter of the book
 
-Class 1:
+
+**Class 1:**
 - [[CPS 201/Introcution to Programming]]
 - [FORTRAN BASICS](CPS%20201/FORTRAN%20BASICS.md)
 
-
+**- Class 2:**
+	- [[Data Types]]
 

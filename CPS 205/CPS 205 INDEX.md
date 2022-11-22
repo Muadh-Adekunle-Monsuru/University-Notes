@@ -12,6 +12,6 @@ ions of CPS 205:
 - CPUs
 - Secondary Storage
 
-**Class 1:**
-- [Module 1]]
-- 
+
+ [[Module 1]]
+ 
