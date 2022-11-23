@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a76820dc7651f6b5",
+            "id": "a46a34d79eecdeb0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "CPS 205/Document/Images/Pasted image 20221121105032.png"
+                "file": "CPS 201/Assignment 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50235748291016
+    "width": 224.50235748291016,
+    "collapsed": true
   },
   "right": {
     "id": "c6423d6357a6c7a4",
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 205/Document/Images/Pasted image 20221121105032.png",
+                "file": "CPS 201/Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 205/Document/Images/Pasted image 20221121105032.png",
+                "file": "CPS 201/Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 205/Document/Images/Pasted image 20221121105032.png"
+                "file": "CPS 201/Assignment 1.md"
               }
             }
           }
@@ -135,17 +138,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "e284dc9ecd0351cd",
+  "active": "a46a34d79eecdeb0",
   "lastOpenFiles": [
+    "CPS 201/Data Types.md",
+    "CPS 201/CPS 201 INDEX.md",
+    "MAIN INDEX.md",
+    "CPS 205/Document/Images/Pasted image 20221121105032.png",
     "CPS 205/Document/Images/Pasted image 20221122083412.png",
     "CPS 205/CPS 205 INDEX.md",
     "To-Do.md",
     "CPS 101/Binary representation of sounds and images.md",
     "CPS 101/Documents/Chapter 4.pdf",
-    "CPS 101/CPS 101 INDEX.md",
-    "Drafts.md",
-    "MAIN INDEX.md",
-    "CPS 101/Documents/Chapter 5.pdf",
-    "CPS 101/Binary Numbers, Boolean Logic, and gates.md"
+    "CPS 101/CPS 101 INDEX.md"
   ]
 }
