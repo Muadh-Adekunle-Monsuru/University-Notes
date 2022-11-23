@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2292bbedb676a480",
+            "id": "a76820dc7651f6b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "MAIN INDEX.md",
-                "mode": "source",
-                "source": false
+                "file": "CPS 205/Document/Images/Pasted image 20221121105032.png"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN INDEX.md",
+                "file": "CPS 205/Document/Images/Pasted image 20221121105032.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN INDEX.md",
+                "file": "CPS 205/Document/Images/Pasted image 20221121105032.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN INDEX.md"
+                "file": "CPS 205/Document/Images/Pasted image 20221121105032.png"
               }
             }
           }
@@ -137,17 +135,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "2292bbedb676a480",
+  "active": "e284dc9ecd0351cd",
   "lastOpenFiles": [
+    "CPS 205/Document/Images/Pasted image 20221122083412.png",
+    "CPS 205/CPS 205 INDEX.md",
+    "To-Do.md",
+    "CPS 101/Binary representation of sounds and images.md",
+    "CPS 101/Documents/Chapter 4.pdf",
+    "CPS 101/CPS 101 INDEX.md",
     "Drafts.md",
     "MAIN INDEX.md",
-    "To-Do.md",
-    "CPS 205/Unit 3.md",
-    "CPS 205/Module 1.md",
-    "CPS 205/CPS 205 INDEX.md",
-    "CPS 205/Unit 1 & 2.md",
-    "CPS 201/CPS 201 INDEX.md",
-    "CPS 201/Data Types.md",
-    "CPS 201/Document/fortranA.pdf"
+    "CPS 101/Documents/Chapter 5.pdf",
+    "CPS 101/Binary Numbers, Boolean Logic, and gates.md"
   ]
 }

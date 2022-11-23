@@ -11,4 +11,7 @@ Class:2
 Class 3:
 [[Binary Numbers, Boolean Logic, and gates]]
 
+Class 4: 
+[[Binary representation of sounds and images]]
+
 Bookmark: Page 170

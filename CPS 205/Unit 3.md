@@ -1,4 +1,4 @@
-## Fundamentals of Circuit Design
+	## Fundamentals of Circuit Design
 [21/11/2022]
 
 ==Look up on Boolean Algebra==
@@ -57,7 +57,7 @@ whenever a truth tables is to be drawn, to know the number of rows the equation 
 
 --- 
 
-#### The AND Gates:**
+#### The AND Gates:
 
 Define a Boolean AND Gate: 
 - Also called boolean products, 
@@ -79,7 +79,7 @@ A | B | OUTPUT
 
 **Diagram representation** :
 
-![nd|300](CPS%20205/Document/Images/Pasted%20image%2020221121104938.png)
+![nd|200](CPS%20205/Document/Images/Pasted%20image%2020221121104938.png)
 
 ---
 
@@ -100,7 +100,7 @@ A | B | OUTPUT
 1|1|1
 
 **Diagram Representation:**
-![or|300](CPS%20205/Document/Images/Pasted%20image%2020221121105321.png)
+![or|200](CPS%20205/Document/Images/Pasted%20image%2020221121105321.png)
 
 ---
 
@@ -110,7 +110,7 @@ A | B | OUTPUT
 - Does the opposite of the input
 
 Symbolic Representation
-$$ A'$$ 
+$$ Ā $$ 
  
 
 A  | OUTPUT
@@ -120,7 +120,7 @@ A  | OUTPUT
 
 
 **Diagram**
-![Not|300](CPS%20205/Document/Images/Pasted%20image%2020221121105032.png)
+![Not|200](CPS%20205/Document/Images/Pasted%20image%2020221121105032.png)
 
 
 ---
@@ -141,6 +141,7 @@ A | B | OUTPUT
 1|1|0
 
 **Diagram**
+
 
 
 ---
@@ -166,10 +167,12 @@ A | B | OUTPUT
 **XNOR**
 When both inputs are the same whether
 
+![x|200](CPS%20205/Document/Images/Pasted%20image%2020221122082824.png)
+
 ---
 **XOR**
 
-
+![w|200](CPS%20205/Document/Images/Pasted%20image%2020221122083412.png)
 
 ---
 
