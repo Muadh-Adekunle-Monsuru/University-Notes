@@ -1,4 +1,4 @@
-	## Fundamentals of Circuit Design
+## Fundamentals of Circuit Design
 [21/11/2022]
 
 ==Look up on Boolean Algebra==

@@ -12,7 +12,7 @@ A FORTRAN Program is divided into three components, namely:
 - The executable section: This part is composed of FORTRAN command and instructions to execute the desired problem we intend to solve
 - The termination section: this section determines the END of the program. 
 
-Program Name
+Three Main components of FORTRAN:
 	Declarative Section
 	Executable Section
 	Termination Section
