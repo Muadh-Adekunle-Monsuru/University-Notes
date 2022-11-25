@@ -30,5 +30,8 @@ A collection of webpages and related contents identified by a common domain name
 
 They are typically dedicated for a particular purpose. The hyperlink guides the site navigation.
 
-User 
+Users can access the website from any kind of device. 
+
+Provides access to a static document and active document.
+
 
