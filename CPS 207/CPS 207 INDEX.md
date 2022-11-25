@@ -2,12 +2,9 @@
 
 Mr Azeez Arinola & Dr Ogunrinde
 
-Class 1:
+**Class 1:**
 [[Programming Languages]]
 
-
-
-
-
-
+**Class 2:**
+[[Assembly Language]]
 

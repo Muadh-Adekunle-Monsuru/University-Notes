@@ -11,6 +11,9 @@ Mrs Abdulsalam & Mr Bello
 - PHP
 - MySQL
 
+
+**Class 1:**
+[[Web]]
 Assignments:
 - [[203 Assignment 1 ]]
-- [[CPS 203/Assignment 2 203]]
+- [[CPS 203/Project  203]]

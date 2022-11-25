@@ -2,7 +2,7 @@
 [Introcution to Programming](CPS%20201/Introcution%20to%20Programming.md)
 
 **Define programming:**
-computers dont understand natural languages therefore they have to be instructed with special computer languages before they can perform any task. 
+computers don't understand natural languages therefore they have to be instructed with special computer languages before they can perform any task. 
 
 *The process of developing series of sequence of instruction known as programs to be given to computer so as to perform specific task is known as  programming.*  
 
@@ -28,11 +28,11 @@ PHP
 ---
 **Difference between low-level and high-level languages** 
 - Low-level **faster** than high-level languages
-- Low-level are memory efficient than high-level
-- Low-level are difficult to learn
-- Low-level are machine dependent
-- Low-level languages are more prone to error than high level
-- Low-level are difficult to debug and maintain
+- Low-level are **memory efficient** than high-level
+- Low-level are **difficult** to learn
+- Low-level are **machine dependent**
+- Low-level languages are **more prone to error** than high level
+- Low-level are **difficult** to **debug** and **maintain**
 - Low-level languages develop operating system and embedded application
 - High-level languages develop applications
 
@@ -46,3 +46,15 @@ Python, JAVA, C++
 - Object Oriented Programming
 - Procedural Programming
 - Structured Programming
+
+
+
+![](Pasted%20image%2020221125084107.png)
+
+- Application Programs:
+- High level-language
+-------------------
+Assembly language
+Machine language
+microprogram control
+hardware
