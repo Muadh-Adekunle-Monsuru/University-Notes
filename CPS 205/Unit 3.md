@@ -131,7 +131,6 @@ The output is off when both inputs are on.
 
 Symbolic Representation:
 ![](CPS%20205/Document/Images/Pasted%20image%2020221126194034.png)
-$$ A x B = AB bar$$
 
 Truth Table Representation:
 A | B | OUTPUT
@@ -143,7 +142,7 @@ A | B | OUTPUT
 
 **Diagram**
 
-
+![and|200](Pasted%20image%2020221127114309.png)
 
 ---
 **NOR**:
@@ -152,7 +151,7 @@ A NOR gate is the opponent of a OR Gate
 And works much in the same way as NAND and AND
 
 **Symbolic Representation:** 
-![](CPS%20205/Assigment/Pasted%20image%2020221126194144.png)
+![nor2|100](CPS%20205/Assigment/Pasted%20image%2020221126194144.png)
 
 **Truth Table Representation**:
 A | B | OUTPUT
@@ -162,7 +161,7 @@ A | B | OUTPUT
 1|0|0
 1|1|0
 
-
+![nor|200](Pasted%20image%2020221127114342.png)
 
 ----
 **XNOR**

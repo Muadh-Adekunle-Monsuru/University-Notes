@@ -23,4 +23,3 @@ To represent fractional numbers in binary it must first be converted to scientif
 where M is the mantissa, B is the exponent base (usually 2), and E is the exponent
 ![](CPS%20101/Documents/Images/Pasted%20image%2020221124181121.png)
 
-pg 269

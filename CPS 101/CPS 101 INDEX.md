@@ -12,6 +12,6 @@ Class 3:
 [[Binary Numbers, Boolean Logic, and gates]]
 
 Class 4: 
-[[Binary representation of sounds and images]]
+[[CPS 101/Binary Representation of Sounds and Images]]
 
 Bookmark: Page 170
