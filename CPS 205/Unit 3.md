@@ -130,6 +130,7 @@ A NAND gate is basically the opposite/opponent of AND gate
 The output is off when both inputs are on.
 
 Symbolic Representation:
+![](CPS%20205/Document/Images/Pasted%20image%2020221126194034.png)
 $$ A x B = AB bar$$
 
 Truth Table Representation:
@@ -151,7 +152,7 @@ A NOR gate is the opponent of a OR Gate
 And works much in the same way as NAND and AND
 
 **Symbolic Representation:** 
-$$ (A + B) bar $$
+![](CPS%20205/Assigment/Pasted%20image%2020221126194144.png)
 
 **Truth Table Representation**:
 A | B | OUTPUT
@@ -165,13 +166,41 @@ A | B | OUTPUT
 
 ----
 **XNOR**
-When both inputs are the same whether
+Sometimes called an equivalence gate. 
+A high output results if both the inputs to the gate are the same. If one but not both inputs are high it results in low output
+Symbolic Expression:
 
+Symbolic Expression:
+![e|](CPS%20205/Document/Images/Pasted%20image%2020221126220806.png)
+![2|250](CPS%20205/Document/Images/Pasted%20image%2020221126220857.png)
+
+**Truth Table**
+A | B | OUTPUT
+--|--|--
+0|0|1
+0|1|0
+1|0|0
+1|1|1
+
+**Diagram**
 ![x|200](CPS%20205/Document/Images/Pasted%20image%2020221122082824.png)
 
 ---
-**XOR**
+**XOR**:
+Exclusive Or is a logic gate that give a true output when the number of true inputs is odd. 
+. A way to remember XOR is "must have one or the other but not both".
 
+**Symbolic expression:**
+![xor|300](CPS%20205/Document/Images/Pasted%20image%2020221126214123.png)
+
+A | B | OUTPUT
+--|--|--
+0|0|0
+0|1|1
+1|0|1
+1|1|0
+
+**Diagram**
 ![w|200](CPS%20205/Document/Images/Pasted%20image%2020221122083412.png)
 
 ---
