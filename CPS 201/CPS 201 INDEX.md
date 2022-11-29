@@ -31,4 +31,9 @@ Computer Programming I
 
 **- Class 2:**
 	- [[Data Types]]
+	- [Implicit None](CPS%20201/Implicit%20None.md)
 
+-  Class 3
+	 - [[CPS 201/Mathematical Expressions]]
+	   -   [[CPS 201/Process of writing a computer program ]]
+	- [[CPS 201/Control Structures]] 

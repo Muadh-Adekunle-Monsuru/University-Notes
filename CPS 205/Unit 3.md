@@ -142,7 +142,7 @@ A | B | OUTPUT
 
 **Diagram**
 
-![and|200](Pasted%20image%2020221127114309.png)
+![and|200](CPS%20205/Document/Images/Pasted%20image%2020221127114309.png)
 
 ---
 **NOR**:
@@ -161,7 +161,7 @@ A | B | OUTPUT
 1|0|0
 1|1|0
 
-![nor|200](Pasted%20image%2020221127114342.png)
+![nor|200](CPS%20205/Document/Images/Pasted%20image%2020221127114342.png)
 
 ----
 **XNOR**

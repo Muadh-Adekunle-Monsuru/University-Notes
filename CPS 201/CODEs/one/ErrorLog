@@ -1,3 +1,2 @@
-C:\Users\ekuinas\OneDrive\Documents\GitHub\University-Notes\CPS 201\CODEs\one\areaofacirce.F95(3) : warning 242 - Variable AREA has been given a value but never used
-C:\Users\ekuinas\OneDrive\Documents\GitHub\University-Notes\CPS 201\CODEs\one\areaofacirce.F95(8) : warning 298 - Variable ARE has been used without being given an initial value
-C:\Users\ekuinas\OneDrive\Documents\GitHub\University-Notes\CPS 201\CODEs\one\areaofacirce.F95(8) : error 283 - ARE must appear in a type declaration because IMPLICIT NONE has been used
+C:\Users\ekuinas\OneDrive\Documents\GitHub\University-Notes\CPS 201\CODEs\one\statement.F95(27) : error 492 - The IF statement on line 18 already has an ELSE statement on line 22
+C:\Users\ekuinas\OneDrive\Documents\GitHub\University-Notes\CPS 201\CODEs\one\statement.F95(35) : error 764 - Nesting error - the block IF construct on line 18 has not been terminated

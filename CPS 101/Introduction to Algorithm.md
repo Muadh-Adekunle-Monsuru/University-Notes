@@ -91,6 +91,7 @@ This type of iteration performs all the algorithmic operations contained in the 
 ---
 
 ## Pseudocode:
+[Process of writing a computer program](CPS%20201/Process%20of%20writing%20a%20computer%20program.md)
 
 Most computer scientists use a notation called **pseudocode** to design and represent algorithms. This is a set of English language constructs designed to *resemble* statements in a programming language but that do not actually run on a computer.
 
