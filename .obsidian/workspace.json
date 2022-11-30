@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7906ace37ffd2dcc",
+        "id": "91b39f06d0a7d7d2",
         "type": "tabs",
         "children": [
           {
-            "id": "fa466cfc986bdb7b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ENT 201/Document/ENT Week2.pdf"
-              }
-            }
-          },
-          {
-            "id": "5c68f642335220fa",
+            "id": "f71f9680c2a95697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENT 201/Class 3.md",
+                "file": "GNS 103/Various Departments of a library.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENT 201/Class 3.md",
+                "file": "GNS 103/Various Departments of a library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENT 201/Class 3.md",
+                "file": "GNS 103/Various Departments of a library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENT 201/Class 3.md"
+                "file": "GNS 103/Various Departments of a library.md"
               }
             }
           }
@@ -149,17 +138,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "5c68f642335220fa",
+  "active": "f71f9680c2a95697",
   "lastOpenFiles": [
-    "ENT 201/Document/ENT Week2.pdf",
-    "ENT 201/ENT 201 INDEX.md",
-    "ENT 201/Class 3.md",
-    "ENT 201/Class 2.md",
-    "GNS 105/Chapter 1.md",
-    "CPS 205/Assigment/GNS 105 INDEX.md",
-    "CPS 205/Assigment/Assignment 3.md",
-    "CPS 205/Assigment/Assignment 2.md",
-    "CPS 201/Pasted image 20221128200919.png",
-    "Pasted image 20221128171447.png"
+    "GNS 103/GNS 103 INDEX.md",
+    "GNS 103/Resources in the Library.md",
+    "GNS 103/Documents/GNS 103 P2.pdf",
+    "GNS 103/Documents/GNS 103 P1.pdf",
+    "Brief.md",
+    "To-Do.md",
+    "CPS 101/Untitled.md",
+    "CPS 101/Documents/CLASS 4.md",
+    "CPS 101/Documents/Principles of Programming Language.pdf",
+    "CPS 101/Principles of Programming Language.md"
   ]
 }

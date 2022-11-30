@@ -1,9 +1,9 @@
 
-- [ ] FORTRAN 95/2003 for Engineers and scientists By Chapman
-- [ ] Complete the logic gates
-- [ ] Learn hex converstion
-- [ ] binary subtraction
-
+- [x] FORTRAN 95/2003 for Engineers and scientists By Chapman
+- [x] Complete the logic gates
+- [x] Leartraction
+n hex converstion
+- [x] binary sub
 
 
 ## Done:

@@ -14,4 +14,7 @@ Class 3:
 Class 4: 
 [[CPS 101/Binary Representation of Sounds and Images]]
 
+Class 5:
+[[The Reliability of Binary Representation]]
+[[Principles of Programming Language]]
 Bookmark: Page 170
