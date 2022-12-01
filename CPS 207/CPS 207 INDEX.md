@@ -1,6 +1,6 @@
 ### Foundation To Sequential Programming
 
-Mr Azeez Arinola & Dr Ogunrinde
+Mr Azeez Akinlolu & Dr Ogunrinde
 
 **Class 1:**
 [[Programming Languages]]

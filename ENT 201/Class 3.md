@@ -69,3 +69,58 @@ Techniques that can be used to generate new ideas for product:
 - ==Focus Group==
 - Surveys
 - Other Techniques
+
+	- **Surveys**: Method of gathering information from a sample of people. The most effective survey sample is "random". 
+	- **Other Techniques:** Includes Delphi method, which is a forecasting methods which relies on a panel of experts. 
+		- Attending Trade shows and conferences
+
+
+**Examples of Business Ideas:**
+- Invention of a new product
+- Franchising
+- Rebuilding or Remanufacturing Products
+- Catering for market that is not adequately served 
+- Taking existing local product to a new market
+- Capitalizing on growing trends
+
+
+#### How to encourage and protect new business ideas
+New business ideas can be classified as an intellectual property, because it is a product of human intellect that is intangible but has value in the marketplace
+
+**Business ideas can be protected through:**
+- Patent
+- Trademark
+- Copyright
+- Trade Secrets
+
+It must be noted that a mere idea or concept does not qualify for intellectual property protection until it is translated into more concrete form. 
+
+Why is it better to setup a service business than manufacturing:
+- Easier and cheaper to set up
+- Market for a service is more likely to be local
+- Less equipment is needed
+- Less money required for a start-up
+- Risk is lower than manufacturing
+
+---
+### Problem Solving and Team Work
+Problem solving refer to the process of working through details of a problem with the objective of finding a solution.
+
+**Basic steps in solving a business problem:**
+- Defining the problem
+- Generating alternatives
+- Evaluating and Selecting alternatives
+- Implementing solutions
+
+**Problem Solving mental skills**:
+- Analytical Skill
+- Creative Skill
+	- **Analytical Skill:** Involves a thorough analysis, drawing logical framework of the problem. Includes skills such as ordering, comparing, contrasting, evaluating and selecting. Provides a logical framework for solving and helps to select the best alternative by narrowing down the range of possibilities.
+	- **Creative Skill:** Uses imagination to create a large range of ideas for solution. Looking beyond the obvious. 
+
+**Ways to Enhance Problem Solving Skills**
+- Focusing on the solution rather than the problem
+- Having an open mind by entertaining all possible solutions 
+- Viewing problems without bias
+- Simplifying things
+- Respecting other people's opinions and needs
