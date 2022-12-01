@@ -34,3 +34,11 @@ while(i<10000) and (Found=No) do:
 if (Found = No)
 	print "no name is on the list"
 Stop
+
+
+make t the sum of y multiplied by r plus 31
+
+move eax, y
+mul eax, r
+add eax, 31
+move eax, t

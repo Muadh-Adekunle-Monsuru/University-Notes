@@ -1,3 +1,4 @@
+[25/11/2022]
 Assembler are program that convert a source code program written in assembly language. 
 
 Compiler:
@@ -10,7 +11,7 @@ Assembler Tools:
 
 ---
 
-- **OPCODE**: Stand for operation code. I specify a particular operation to be performed.
+- **OPCODE**: Stand for operation code. It specify a particular operation to be performed.
 
 - **OPERAND:**  It specify where to get the source and the destination for the operation. It can be variable or a constant. 
 
@@ -24,7 +25,7 @@ jmp
 ```
 
 
-EAX: register accumulator
+==EAX: register accumulator==
 
 ---
 
@@ -54,3 +55,5 @@ mul eax, y
 add eax, 5
 move D, eax
 ```
+
+--

@@ -14,10 +14,10 @@ It is the creative and innovative process of coming up with a potential business
 - Changing the style of delivery, size, packaging, shape, color, material of the product.
 
 **Why do entrepreneur set up businesses in an industry in which they have experience.**
-They can introduce new ideas that will add value to the product or service they bring into the market. 
+They can identify areas they can introduce new ideas that will add value to the product or service they bring into the market. 
 
 #### What is Business Opportunity
-A business opportunity is a favorable set of circumstance and condition that create need for a need for a new product, service or business. 
+A business opportunity is a favorable set of circumstance and condition that create need for a new product, service or business. 
 Opportunities occur when people discover a problem that can be helped with a product or service or when people decide they have certain needs or wants to satisfy.
 
 **What are the four essential qualities of a business opportunity**:
