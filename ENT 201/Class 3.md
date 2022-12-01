@@ -57,3 +57,15 @@ A business idea is different from a business opportunity because an idea is just
 - Cognitive Factors
 - Social Network
 - Creativity
+
+	- **Prior Experience:** By working in an industry, an individual may spot a market niche that is underserved.
+	- **Cognitive Factors:** Opportunity recognition may be an innate skill or cognitive process. Having a sense called entrepreneurial alertness, which is the ability to notice things without engaging in deliberate search
+	- **Social Network:** People who build substantial network of social and professional contacts will be exposed to more opportunities and ideas than people with sparse networks. 
+	- **Creativity:** Process of generating a novel or useful idea. Some people are more creative than others. 
+
+#### Techniques for Generating New Business Ideas
+Techniques that can be used to generate new ideas for product:
+- ==Brainstorming==
+- ==Focus Group==
+- Surveys
+- Other Techniques
