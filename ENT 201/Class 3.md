@@ -95,7 +95,7 @@ New business ideas can be classified as an intellectual property, because it is 
 
 It must be noted that a mere idea or concept does not qualify for intellectual property protection until it is translated into more concrete form. 
 
-Why is it better to setup a service business than manufacturing:
+**Why is it better to setup a service business than manufacturing:**
 - Easier and cheaper to set up
 - Market for a service is more likely to be local
 - Less equipment is needed
