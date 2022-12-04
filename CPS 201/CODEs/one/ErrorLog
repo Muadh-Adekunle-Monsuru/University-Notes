@@ -1,2 +1,3 @@
-C:\Users\ekuinas\OneDrive\Documents\GitHub\University-Notes\CPS 201\CODEs\one\statement.F95(27) : error 492 - The IF statement on line 18 already has an ELSE statement on line 22
-C:\Users\ekuinas\OneDrive\Documents\GitHub\University-Notes\CPS 201\CODEs\one\statement.F95(35) : error 764 - Nesting error - the block IF construct on line 18 has not been terminated
+[SLINK64 v3.04, Copyright (c) Silverfrost Ltd. 2015-2022]
+Loading C:\Users\ekuinas\OneDrive\Documents\GitHub\University-Notes\CPS 201\CODEs\one\lgotemp@.obj
+Creating executable file C:\Users\ekuinas\OneDrive\Documents\GitHub\University-Notes\CPS 201\CODEs\one\Assignment 2.exe

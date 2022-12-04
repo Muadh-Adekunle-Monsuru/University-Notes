@@ -72,4 +72,42 @@ print grade, pt
 end
 ```
 
+**Actual Code:**
+```FORTRAN
+program assignment2
+implicit none
+real :: mark, pt
+character :: grade
+print *, "What is the mark"
+read *, mark
+
+if (mark >= 70) then
+    grade = "A"
+    pt = 50  
+    
+else if (mark >= 60 .and. mark <= 69)then
+    grade = "B"
+    pt = 40
+    
+else if (mark >= 50 .and. mark <= 59)then
+    grade = "C"
+    pt = 30
+
+else if (mark >= 45 .and. mark <= 49)then
+    grade = "D"
+    pt = 20
+    
+else if (mark >= 30 .and. mark <= 40)then
+    grade = "E"
+    pt = 40
+else
+  grade = "E"
+  pt = 0
+    
+end if
+
+print*, grade, pt
+end
+```
+
 ![](CPS%20201/Pasted%20image%2020221128200919.png)

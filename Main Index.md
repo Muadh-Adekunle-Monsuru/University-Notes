@@ -2,9 +2,9 @@ This is the main page.
 
 - CPS 101   [[CPS 101 INDEX]]
 
-- CPS 201 [[CPS 201 INDEX]] 
+- CPS 201 [[CPS 201/_CPS 201 INDEX]] 
 
-- CPS 203 [[CPS 203 INDEX]]
+- CPS 203 [[CPS 203/_CPS 203 INDEX]]
 
 - CPS 205  [[CPS 205 INDEX]]
 

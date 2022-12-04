@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b505bc25bfecab46",
+            "id": "a9fcac85ded3b5f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 203/Web Cont..md",
+                "file": "ENT 201/Class 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 203/Web Cont..md",
+                "file": "ENT 201/Class 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 203/Web Cont..md",
+                "file": "ENT 201/Class 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 203/Web Cont..md"
+                "file": "ENT 201/Class 4.md"
               }
             }
           }
@@ -138,17 +138,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "b505bc25bfecab46",
+  "active": "a9fcac85ded3b5f3",
   "lastOpenFiles": [
-    "CPS 203/CPS 203 INDEX.md",
+    "ENT 201/Document/ENT WEEK 3.pdf",
+    "ENT 201/Class 4.md",
+    "ENT 201/Class 3.md",
+    "ENT 201/Class 2.md",
     "CPS 203/Web Cont..md",
-    "CPS 207/Foundations of Sequential Programming.md",
-    "CPS 207/Documents/CPS 207 Sequential Programming.pdf",
-    "CPS 207/CPS 207 INDEX.md",
-    "STA 201/Statistical inference II.md",
-    "CPS 205/Circuit Design.md",
+    "CPS 203/_CPS 203 INDEX.md",
+    "CPS 201/Control Structures.md",
+    "CPS 201/_CPS 201 INDEX.md",
     "CPS 205/Three Circuits Using Only NAND Gates.md",
-    "CPS 201/Mathematical Expressions.md",
-    "CPS 101/Pasted image 20221203171926.png"
+    "CPS 205/Circuit Design.md"
   ]
 }
