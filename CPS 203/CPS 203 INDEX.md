@@ -19,5 +19,5 @@ Mrs Abdulsalam & Mr Bello
 [[CPS 203/Web Cont.]]
 
 Assignments:
-- [[203 Assignment 1 ]]
-- [[CPS 203/Project  203]]
+- [[CPS 203/Assignment/203 Assignment 1 ]]
+- [203 Assignment 2](CPS%20203/Assignment/203%20Assignment%202.md)

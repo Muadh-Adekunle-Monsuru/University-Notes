@@ -28,7 +28,7 @@ Steps in the development of programs:
 5. Testing & Debugging
 6. Maintenance
 
-![](Pasted%20image%2020221202090623.png)
+![](CPS%20207/Image/Pasted%20image%2020221202090623.png)
 
 
 ---

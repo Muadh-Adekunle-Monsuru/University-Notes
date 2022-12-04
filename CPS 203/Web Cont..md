@@ -1,19 +1,7 @@
 [02/12/2022]
 
 #### Web Application 
-
---- 
-1. Look for more web server
-
-2. Difference between web app and desktop using the following parameters:
-	- Maintenance
-	- Usage Scale which ones is used most
-	- Speed and performance
-	- Bandwidth Cost
-	- Portability 
-
-
---- 
+ 
 
 **Define a Web Application:**
 A web application builds on a website. It takes users inputs that affects back end  business logic and the web server typically interacts with other backend servers.
@@ -37,7 +25,7 @@ A web application builds on a website. It takes users inputs that affects back e
 - Middle Tier: Web server & Application Server
 - Data Tier
 
-![](Pasted%20image%2020221202102924.png)
+![](CPS%20203/Images/Pasted%20image%2020221202102924.png)
 
 
 - ##### Client Tier:

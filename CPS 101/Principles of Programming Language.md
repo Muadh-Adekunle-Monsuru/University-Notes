@@ -39,4 +39,3 @@
 - Training programmers to use the language
 - Writing programs
 
-Type of compiler and how does a compiler works

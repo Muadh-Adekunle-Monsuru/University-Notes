@@ -55,6 +55,7 @@ Note the quality of the parent's population mean given fig1.1 and the two sampli
 This property is that the sample mean is an UNBIASED estimates of the population mean. The sampling variants calculated above can be derived by using this formula. 
 ![](STA%20201/Images/Pasted%20image%2020221116114816.png)
 
+$$Sampling variance = \frac{N-n}{N-1} * \frac{σ^2}{n}$$
 where N is the population size, σ2 is the population variance and n is the sample size. 
 
 ![](STA%20201/Images/Pasted%20image%2020221116115743.png)
