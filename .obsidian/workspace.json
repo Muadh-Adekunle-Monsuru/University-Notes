@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9fcac85ded3b5f3",
+            "id": "ba9dfc892d3f9538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENT 201/Class 4.md",
+                "file": "CPS 205/module class 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50235748291016,
-    "collapsed": true
+    "width": 224.50235748291016
   },
   "right": {
     "id": "c6423d6357a6c7a4",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENT 201/Class 4.md",
+                "file": "CPS 205/module class 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENT 201/Class 4.md",
+                "file": "CPS 205/module class 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENT 201/Class 4.md"
+                "file": "CPS 205/module class 4.md"
               }
             }
           }
@@ -138,17 +137,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "a9fcac85ded3b5f3",
+  "active": "ba9dfc892d3f9538",
   "lastOpenFiles": [
-    "ENT 201/Document/ENT WEEK 3.pdf",
+    "CPS 205/Module 1.md",
+    "CPS 205/CPS 205 INDEX.md",
+    "GNS 101/Book Review Project.md",
+    "GNS 101/Part Of Speech.md",
     "ENT 201/Class 4.md",
+    "MAIN INDEX.md",
+    "GNS 103/GNS 103 INDEX.md",
+    "ENT 201/Document/ENT WEEK 3.pdf",
     "ENT 201/Class 3.md",
-    "ENT 201/Class 2.md",
-    "CPS 203/Web Cont..md",
-    "CPS 203/_CPS 203 INDEX.md",
-    "CPS 201/Control Structures.md",
-    "CPS 201/_CPS 201 INDEX.md",
-    "CPS 205/Three Circuits Using Only NAND Gates.md",
-    "CPS 205/Circuit Design.md"
+    "ENT 201/Class 2.md"
   ]
 }
