@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73a38e645da991f4",
+            "id": "c58fb090566a6ea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 201/FORTAN Operators.md",
+                "file": "GNS 101/The Responsible Child.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 201/FORTAN Operators.md",
+                "file": "GNS 101/The Responsible Child.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 201/FORTAN Operators.md",
+                "file": "GNS 101/The Responsible Child.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 201/FORTAN Operators.md"
+                "file": "GNS 101/The Responsible Child.md"
               }
             }
           }
@@ -138,17 +138,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "73a38e645da991f4",
+  "active": "c58fb090566a6ea0",
   "lastOpenFiles": [
-    "CPS 201/_CPS 201 INDEX.md",
-    "CPS 201/Document/fortranA.pdf",
+    "GNS 101/Book Review Project.md",
+    "GNS 101/The Responsible Child.md",
+    "Drafts.md",
+    "To-Do.md",
+    "MAIN INDEX.md",
+    "CPS 201/Pasted image 20221205105206.png",
+    "CPS 201/Pasted image 20221205105044.png",
+    "CPS 201/Pasted image 20221205105010.png",
     "CPS 201/FORTAN Operators.md",
-    "CPS 205/Circuit Design Cont.md",
-    "CPS 205/Document/unit 4 CIRCUIT DESIGN.pdf",
-    "CPS 205/Circuit Design Intro.md",
-    "CPS 101/Introduction to Algorithm.md",
-    "CPS 205/Unit 3.md",
-    "CPS 205/Three Circuits Using Only NAND Gates.md",
-    "CPS 205/Document/CPS206Overview.pdf"
+    "CPS 201/_CPS 201 INDEX.md"
   ]
 }

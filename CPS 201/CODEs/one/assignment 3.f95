@@ -27,8 +27,8 @@ else
 	charge = 40
 	amount = charge * engcons
 end if
-print *, "Dear", name
-print *, "Your address is", address
+print *, "Dear ", name
+print *, "Your address is ", address
 print *, "Your Meter number is", meternum
 print *, "Your charge is ", charge
 print *, "You have to pay", amount

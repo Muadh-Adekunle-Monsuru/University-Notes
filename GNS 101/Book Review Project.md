@@ -4,7 +4,7 @@ Abdussalam Sulayman
 
 ---
 Journey of the:
-- dad
+- dad  
 - mom
 - qasim
 - gbegbe
