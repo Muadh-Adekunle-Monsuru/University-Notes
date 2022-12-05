@@ -7,6 +7,6 @@
 
 **Class 3**
 - [[CPS 205/Three Circuits Using Only NAND Gates]]
-- [[Circuit Design]]
+- [[CPS 205/Circuit Design Intro]]
 **Class 4**
-[[module class 4]]
+[[CPS 205/Circuit Design Cont]]

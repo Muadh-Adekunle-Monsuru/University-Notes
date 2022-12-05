@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44bcce4d6201a7ee",
+        "id": "a85744d978872697",
         "type": "tabs",
         "children": [
           {
-            "id": "ba9dfc892d3f9538",
+            "id": "73a38e645da991f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 205/module class 4.md",
+                "file": "CPS 201/FORTAN Operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "storage saving",
+                "query": "minterms",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50235748291016
+    "width": 224.50235748291016,
+    "collapsed": true
   },
   "right": {
     "id": "c6423d6357a6c7a4",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 205/module class 4.md",
+                "file": "CPS 201/FORTAN Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 205/module class 4.md",
+                "file": "CPS 201/FORTAN Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 205/module class 4.md"
+                "file": "CPS 201/FORTAN Operators.md"
               }
             }
           }
@@ -137,17 +138,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "ba9dfc892d3f9538",
+  "active": "73a38e645da991f4",
   "lastOpenFiles": [
-    "CPS 205/Module 1.md",
-    "CPS 205/CPS 205 INDEX.md",
-    "GNS 101/Book Review Project.md",
-    "GNS 101/Part Of Speech.md",
-    "ENT 201/Class 4.md",
-    "MAIN INDEX.md",
-    "GNS 103/GNS 103 INDEX.md",
-    "ENT 201/Document/ENT WEEK 3.pdf",
-    "ENT 201/Class 3.md",
-    "ENT 201/Class 2.md"
+    "CPS 201/_CPS 201 INDEX.md",
+    "CPS 201/Document/fortranA.pdf",
+    "CPS 201/FORTAN Operators.md",
+    "CPS 205/Circuit Design Cont.md",
+    "CPS 205/Document/unit 4 CIRCUIT DESIGN.pdf",
+    "CPS 205/Circuit Design Intro.md",
+    "CPS 101/Introduction to Algorithm.md",
+    "CPS 205/Unit 3.md",
+    "CPS 205/Three Circuits Using Only NAND Gates.md",
+    "CPS 205/Document/CPS206Overview.pdf"
   ]
 }

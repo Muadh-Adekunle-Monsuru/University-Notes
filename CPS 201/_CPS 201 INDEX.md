@@ -37,3 +37,5 @@ Computer Programming I
 	 - [[CPS 201/Mathematical Expressions]]
 	   -   [[CPS 201/Process of writing a computer program ]]
 	- [[CPS 201/Control Structures]] 
+- Class 4
+	- [FORTAN Operators](CPS%20201/FORTAN%20Operators.md)
