@@ -46,21 +46,6 @@ Steps:
 4. The rest follow
 
 
-Circuit that implements a simple voting system to choose the class govern, assistant governor, and director of studies.
-
-A decision passes if it gest more than 50% of the votes
-
-C = 20%
-A = 30%
-D = 50%
-
-C | A | D | Z
----|--- |--- |---
-0|0|0|0
-0|0|1|0
-0|1|0|0
-0|1|1|1
-
 >[!Note]
 ==Sum of Product is where the output is 1==
 

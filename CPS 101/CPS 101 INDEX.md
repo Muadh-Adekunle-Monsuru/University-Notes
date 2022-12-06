@@ -17,4 +17,7 @@ Class 4:
 Class 5:
 [[The Reliability of Binary Representation]]
 [[Principles of Programming Language]]
+
+Class 6
+[[CPS 101/Visual Basic (Practical Class)]]
 Bookmark: Page 170
