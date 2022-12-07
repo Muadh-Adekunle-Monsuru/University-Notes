@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 101/Visual Basic (Practical Class).md",
+                "file": "GNS 101/Book Review Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 101/Visual Basic (Practical Class).md",
+                "file": "GNS 101/Book Review Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 101/Visual Basic (Practical Class).md",
+                "file": "GNS 101/Book Review Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 101/Visual Basic (Practical Class).md"
+                "file": "GNS 101/Book Review Project.md"
               }
             }
           }
@@ -140,6 +140,7 @@
   },
   "active": "0c3722b1afc0cccc",
   "lastOpenFiles": [
+    "CPS 101/Visual Basic (Practical Class).md",
     "CPS 101/CPS 101 INDEX.md",
     "CPS 205/Circuit Design Intro.md",
     "CPS 205/Practical.md",
@@ -148,7 +149,6 @@
     "CPS 205/Circuit Design Cont.md",
     "CPS 205/CPS 205 INDEX.md",
     "CPS 205/Unit 1 & 2.md",
-    "GNS 101/Book Review Project.md",
-    "GNS 101/The Responsible Child.md"
+    "GNS 101/Book Review Project.md"
   ]
 }
