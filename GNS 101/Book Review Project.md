@@ -50,7 +50,7 @@ Qasim witnessed his first violence fight when he was out with Gbenga for one of 
 ### Chapter 5
 By now, Qasim has been prommoted to the Deputy Don III of Red Ox and his commitment to the cult was reflected on his G.P.A. which has now dropped significantly. 
 
-Its was the election session at the school and several students were compiting for the role as the presient of the student union. 
+Its was the election session at the school and several students were compiting for the role as the presient of the student union. After intense campaning it was obbody elected by Malcom X as their next president. 
 
 
 
