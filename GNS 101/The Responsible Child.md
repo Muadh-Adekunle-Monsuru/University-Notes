@@ -89,3 +89,5 @@ His dad then gave him a huge sum of money for him to start a business with, and 
 Unfortunately, Dende did learn any lessons from his life. He squandered all the money his dad gave him and even sold all  his dad's properties but there was nothing left with him at the end of the day. He was then introduced to armed robbery as a way to make money, Dende was arrested on his first operation and was sentence to 30 years imprisonment. 
 
 On the other hand, Apeke's children has been living a responsible life and now have children too, whom were all girls. Apeke's children organized a party for her as she clocked 80 years of age. People from the community came together to celebrate her and praised her on raising well mannered and responsible children. 
+
+[[GNS 101/The Responsible Child Morals]]
