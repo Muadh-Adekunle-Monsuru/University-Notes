@@ -16,7 +16,7 @@ Mrs Abdulsalam & Mr Bello
 [[Web]]
 
 **Class 2**
-[[CPS 203/Web Cont.]]
+[[CPS 203/Web Continuation]]
 
 Assignments:
 - [[CPS 203/Assignment/203 Assignment 1 ]]

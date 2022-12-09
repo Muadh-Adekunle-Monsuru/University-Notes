@@ -19,3 +19,6 @@ Mr Azeez Akinlolu & Dr Ogunrinde
 
 **Class 3**
 [[CPS 207/Foundations of Sequential Programming]]
+
+**Class 4:**
+[Foundations of Sequential Programming Continuation](CPS%20207/Foundations%20of%20Sequential%20Programming%20Continuation.md)
