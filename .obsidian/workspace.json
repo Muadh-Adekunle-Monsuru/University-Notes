@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29c1eab5ac799a58",
+            "id": "1de19324559c29f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GNS 101/Book Review Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91af624298c5f81b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GNS 101/Morl.md",
+                "file": "GNS 101/Part Of Speech.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNS 101/Morl.md",
+                "file": "GNS 101/Part Of Speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNS 101/Morl.md",
+                "file": "GNS 101/Part Of Speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNS 101/Morl.md"
+                "file": "GNS 101/Part Of Speech.md"
               }
             }
           }
@@ -151,17 +138,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "91af624298c5f81b",
+  "active": "1de19324559c29f7",
   "lastOpenFiles": [
-    "GNS 101/Book Review Project.md",
-    "GNS 101/The Responsible Child.md",
-    "GNS 101/The Responsible Child Morals.md",
-    "CPS 101/Visual Basic (Practical Class).md",
-    "CPS 101/CPS 101 INDEX.md",
-    "CPS 205/Circuit Design Intro.md",
-    "CPS 205/Practical.md",
-    "CPS 205/Three Circuits Using Only NAND Gates.md",
-    "CPS 205/Module 1.md",
-    "CPS 205/Circuit Design Cont.md"
+    "GNS 101/GNS 101.pdf",
+    "GNS 101/Part Of Speech.md",
+    "GNS 101/GNS 101 INDEX.md",
+    "MAIN INDEX.md",
+    "STA 201/Statistical inference II.md",
+    "STA 201/STA 201 INDEX.md",
+    "CPS 201/FORTAN Operators.md",
+    "CPS 201/_CPS 201 INDEX.md",
+    "CPS 201/FORTRAN BASICS.md",
+    "CPS 207/Foundations of Sequential Programming.md"
   ]
 }

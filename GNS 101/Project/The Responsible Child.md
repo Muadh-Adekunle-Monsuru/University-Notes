@@ -90,4 +90,4 @@ Unfortunately, Dende did learn any lessons from his life. He squandered all the 
 
 On the other hand, Apeke's children has been living a responsible life and now have children too, whom were all girls. Apeke's children organized a party for her as she clocked 80 years of age. People from the community came together to celebrate her and praised her on raising well mannered and responsible children. 
 
-[[GNS 101/The Responsible Child Morals]]
+[[GNS 101/Project/The Responsible Child Morals]]

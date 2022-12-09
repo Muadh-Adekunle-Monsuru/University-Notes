@@ -89,3 +89,61 @@ Auxiliary verbs are verbs that are used together with the main verb of a sentenc
 	- Examples:
 		 a. Run into = to meet someone by accident. (I ran into Sheun yesterday.)
 		 b. Make up = invent (a story, an excuse). (‘It never happened. He made the whole thing up!’)
+
+
+### Adjective
+It describes or limits a nouns. Examples are: handsome, stupid, serious. 
+
+Degrees of Adjective:
+- Positive
+- Comparative
+- Superlative
+
+	- Positive Degree: This is the adjective itself, small, handsome
+	- Comparative Degree: Shows which thing is better, worse, stronger, weaker and so forth
+	- Superlative Degree: shows which thing is of the highest degree. Best, Strongest etc
+
+### Adverb:
+It is a modifier of an adjective, verb or other adverbs. very, quickly, slowly
+a. An Adverb modifies a verb: She walks slowly
+b. An adverb modifies an adjective: He is so handsome
+c. An adverb modifies another adverb They write very legibly
+
+### Preposition:
+It is a word that relates words to each other in a sentence. It is used before a noun or pronoun to connect it to another word in the sentence.
+In, on, inside, beside, beyond, upon.
+
+###   Conjunction
+It is a syntactic connector, links words, phrases or clauses. 
+
+Type of conjuctions:
+- Coordinators
+- Subordinators
+	- Coordinators are 3: and, but, or
+	- Subordinators : and, yet, for, nor, or, though, because etc
+
+### Interjection
+Expresses feelings and emotions. I is an emotional greeting or exclamation.
+Wow!, Ouch!
+
+
+### Article or Determiner
+
+Every article is a determiner but not every determiner is an article.
+
+Articles are: A, An, The
+
+Determiners are words that are followed by a noun or pronoun
+Other: Some, many, 
+
+
+
+
+
+
+
+
+
+
+
+

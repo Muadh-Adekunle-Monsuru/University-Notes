@@ -111,5 +111,12 @@ By the following morning, Shina finally gave up the ghost.
 
 
 
+This books, though relatively short, is packed with valuable lessons and teachings which one ought to take away. Some of those teachings include:
 
+- Involving one's self in religious organizations or unions is always more productive than almost any other union
+- Parents should consider the type of people their child will live with as this has a understated level of influence a child
+- When making a decision to marry someone always listen to the advice of other people, especially if they are all saying the same thing. One shouldn't be clouded by one's own judgement of the scenario
+- Once one get's involved in secret organizations is always very difficult to leave it. So the best solution is to not get involved in the first place.
+-  A leader should be open minded about ideas to solve a problem. Group meeting should be always held for brainstorming of solutions
+- Parents should always constantly follow up on their child at higher institution. Either by meeting with other student or teachers. So as to get the behavior of the child at school.
 
