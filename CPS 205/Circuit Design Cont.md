@@ -3,7 +3,7 @@
 **Minterms** is the same thing as standard **product** terms which is **SOP**
 **Maxterms** is the same thing as standard **sum** terms which is **POS**
 
-**Justify why and expression is a SOP:**
+**Justify why an expression is a SOP:**
 It is a product term because each of the literal is multiplied together to form the expression.
 
 > [!Example]

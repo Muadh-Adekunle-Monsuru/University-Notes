@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0dddd83af1cfc24",
+            "id": "4894111faa592d71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 203/HTML Proper.md",
+                "file": "CPS 205/Circuit Design Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50235748291016,
-    "collapsed": true
+    "width": 224.50235748291016
   },
   "right": {
     "id": "c6423d6357a6c7a4",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 203/HTML Proper.md",
+                "file": "CPS 205/Circuit Design Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 203/HTML Proper.md",
+                "file": "CPS 205/Circuit Design Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 203/HTML Proper.md"
+                "file": "CPS 205/Circuit Design Intro.md"
               }
             }
           }
@@ -138,17 +137,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "b0dddd83af1cfc24",
+  "active": "4894111faa592d71",
   "lastOpenFiles": [
-    "CPS 203/Document/WEB DEVELOPMENT.pdf",
-    "CPS 203/HTML Proper.md",
-    "CPS 203/Web Continuation.md",
-    "CPS 203/_CPS 203 INDEX.md",
-    "CPS 203/Assignment/203 Assignment 1.md",
-    "CPS 207/Unit 2.md",
-    "CPS 207/Untitled 1.md",
-    "CPS 207/Foundations of Sequential Programming Continuation.md",
-    "CPS 207/Documents/CPS 207 Sequential Programming.pdf",
-    "CPS 207/Programming Languages.md"
+    "ENT 201/Document/ENT Week 4.pdf",
+    "ENT 201/Document/Class 5.md",
+    "GNS 103/Cataloguing Of Library Material.md",
+    "GNS 103/16.jpg",
+    "GNS 103/15.jpg",
+    "CPS 205/Circuit Design Cont.md",
+    "CPS 205/Unit 3.md",
+    "STA 201/Correlation Coefficient & Regression Formulas.md",
+    "STA 201/Statistical inference II.md",
+    "CPS 207/Image/Pasted image 20221209084610.png"
   ]
 }
