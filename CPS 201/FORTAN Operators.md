@@ -1,8 +1,8 @@
-Arithmetic Operators
+##### Arithmetic Operators
 
 ![](CPS%20201/Pasted%20image%2020221205105010.png)
 
-Logical Operators:
+##### Logical Operators:
 A logical expression is either:
 - a combination of numerical expressions and the relational operators
 ![](CPS%20201/Pasted%20image%2020221205105044.png)

@@ -6,6 +6,8 @@
 **Justify why an expression is a SOP:**
 It is a product term because each of the literal is multiplied together to form the expression.
 
+
+
 > [!Example]
 >1. (A + B)(Abar +C )(B+Cbar)(A + B + C)
 >	1. Product of sum
@@ -51,12 +53,6 @@ Steps:
 
 >[!Note]
 > CAD is the same as CAD = CAD + CAD
-
-
-
-
-
-
 
 
 
