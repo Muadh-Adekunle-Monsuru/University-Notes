@@ -19,3 +19,13 @@ $$\large{b=\frac{nΣxy-ΣxΣy}{nΣx^2-(Σx)^2}}$$
 $$\large{a = ȳ-bx}̄$$
 I love $\sigma^2$ 
 
+## Standard Error of Mean
+$$SEM= \large{\frac{Stadard Deviation}{\sqrt{n}}}$$
+
+
+## Standard Deviation Formulas
+
+$$\large{SD=\sqrt{\frac{Σx - \frac{(Σx)^2}{n}}{n-1}}}$$
+
+## &
+$$ \large{SD=\sqrt{\frac{Σ(X-x̄)^2}{n-1}}}$$

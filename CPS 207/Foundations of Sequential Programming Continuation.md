@@ -11,3 +11,4 @@ They are grouped into three:
 		- ![](CPS%20207/Image/Pasted%20image%2020221209084610.png)
 	- **Iteration Structure**; program instruction that repeats some statement or sequence of statements a number of times is called an iteration or a loop. The commands used to create iterations or loops are all based on logical tests. 
 		- ![](CPS%20207/Image/Pasted%20image%2020221209084745.png)
+
