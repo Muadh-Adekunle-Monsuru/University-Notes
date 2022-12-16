@@ -1,3 +1,4 @@
+[16/12/2022]
 *Summary of Pages 55-64*
 
 **By the end of the unit, you will be able to:** 
@@ -10,6 +11,11 @@
 The style of construction and organization of the many parts of a computer system are its *architecture.*
 
 The **Von Neumann’s** model consists of five major components
+- Input Device
+- Output Device
+- Memory
+- Control Unit
+- ALU
 ![](CPS%20207/Image/Pasted%20image%2020221214212031.png)
 - The input unit provides instructions and data to the system which are subsequently stored in the memory unit. 
 - The instructions and data are processed by the Arithmetic and logic Unit (ALU) under the direction of the Control Unit (CU). 
