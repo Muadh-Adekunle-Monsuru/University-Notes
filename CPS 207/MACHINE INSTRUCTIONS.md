@@ -1,6 +1,5 @@
 [16/12/2022]
 *Summary of Pages 55-64*
-
 **By the end of the unit, you will be able to:** 
 	- list the subsystems of a computer 
 	- explain the interconnection of subsystems and explain different bus systems
@@ -32,7 +31,7 @@ It partitions a computer system into three subunits:
 
 ### The Bus
 The communications among the components is by the means of a shared pathway called the system bus. 
-
+	
 A bus is a communication pathway connecting two or more devices.
 Since the bus is available for other components to talk simultaneously the signals can become garbled, therefore only one device at a time can successfully transmit. 
 
@@ -41,7 +40,7 @@ Lines on a bus can be classified into **three** functional groups:
 - Address
 - Control lines
 	
-	- **Data**: carries the information being transmitted.  The number of lines in a data bus is rerferred to as the width of the data bus. Each line can carry only 1 bit at a time.
+	- **Data**: carries the information being transmitted.  The number of lines in a data bus is referred to as the width of the data bus. Each line can carry only 1 bit at a time.
 	- **Address**: Identifies where the information is being sent or fetched.
 	- **Control**: Describes the manner in which information is being sent. It controls the access to the use other data and address buses. Control signals transmit both command and timing information between system modules. Timing signals indicate the validity of data and address information. Command signals specify operations to be performed.
 
@@ -115,7 +114,9 @@ Classification of computer memory:
 - Secondary Memory
 
 **Primary Memory:** Exclusively associated with the processor and operates at the electronics speeds. Programs must be stored in this memory while they are being executed. 
-
+		**Classification of RAM:**
+				- SRAM
+				- DRAM
 **Secondary Memory**: Used where large amounts of data have to be stored. e.g magnetic disks & tapes
 
 RAM must be provided with a constant power supply, if the power is interrupted then the data are lost. RAM can only be used as temporary storage. 

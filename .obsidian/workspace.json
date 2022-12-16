@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "9e993cdbd3b33081",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b598102a7cfde0dd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CPS 207/Documents/CPS 207 Sequential Programming.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5909b1570acf0436",
         "type": "tabs",
         "children": [
@@ -30,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "CPS 207/MACHINE INSTRUCTIONS.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -124,7 +108,7 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "e284dc9ecd0351cd",
+  "active": "53256dd4ccd30977",
   "lastOpenFiles": [
     "CPS 207/Week 6.md",
     "CPS 207/MACHINE INSTRUCTIONS.md",
