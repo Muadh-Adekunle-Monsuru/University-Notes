@@ -1,4 +1,3 @@
-Reasons why philosophy is inevitable
 
 According to Plato, philosophy developed out of wonder and curiosity. 
 
