@@ -2,7 +2,7 @@
  The equation $$z= | x^2+y^2 -2xy|$$
 in FORTRAN
 ```fortran
-x **2 + y**2 + 2*x*y 
+abs(x **2 + y**2 + 2*x*y) 
 ```
 
 

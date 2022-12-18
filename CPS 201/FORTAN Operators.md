@@ -1,13 +1,13 @@
 ##### Arithmetic Operators
 
-![](CPS%20201/Pasted%20image%2020221205105010.png)
+![](CPS%20201/Document/implicit/Pasted%20image%2020221205105010.png)
 
 ##### Logical Operators:
 A logical expression is either:
 - a combination of numerical expressions and the relational operators
-![](CPS%20201/Pasted%20image%2020221205105044.png)
+![](CPS%20201/Document/implicit/Pasted%20image%2020221205105044.png)
 - A combination of other logical expressions, variables and the logical operators given below.
-![](CPS%20201/Pasted%20image%2020221205105206.png)
+![](CPS%20201/Document/implicit/Pasted%20image%2020221205105206.png)
 
 ---
 > [!Question]

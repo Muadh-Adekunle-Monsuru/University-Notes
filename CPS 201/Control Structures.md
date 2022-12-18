@@ -110,4 +110,4 @@ print*, grade, pt
 end
 ```
 
-![](CPS%20201/Pasted%20image%2020221128200919.png)
+![](CPS%20201/Document/implicit/Pasted%20image%2020221128200919.png)

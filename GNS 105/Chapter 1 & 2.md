@@ -78,19 +78,21 @@ involves generating better visions and pictures that will serve as further guide
 
 We should divide philosophical questions into categories for the purpose of enabling us to separate the questions so that we can have and intelligible and less confusing perspective. 
 
-The three fundamental questions:
+**The three fundamental questions:**
 - What is ultimately real?
 - How do we know this reality and justify it?
 - Having know this reality, how do we live a meaningful life?
-The core branches of philosophy:
+
+**The core branches of philosophy:**
 - Metaphysics
 - Epistemology
 - Ethics
+- Logic
 
 ### Metaphysics
 
-Define Metaphysics:
-The philosophy of being and existence; Metaphysics examines the real nature of things as opposed to their apparent consitiution. Or simply the thoery of reality, or what is real. 
+**Define Metaphysics:**
+The philosophy of being and existence; Metaphysics examines the real nature of things as opposed to their apparent constitution. Or simply the theory of reality, or what is real. 
 
 Metaphysics is the most comprehensive of all enquiries that human beings are involved in, this is because the most fundamental question is What is?
 
@@ -103,21 +105,21 @@ Examples of metaphysical questions:
 
 ### Epistemology
 
-Define Epistemology:
+**Define Epistemology:**
 Epistemology is concerned with the nature, origin, scope, possibility, and limit of human knowledge. 
 
 Epistemology is often called the ***Theory of knowledge***
 
 The branch comes after metaphysics, this is because if we eventually agree on what we count to be real and unreal, the next obvious question we must ask is: *How do we get to know what is real and unreal.*
 
-Three fundamental questions of epistemology:
+**Three fundamental questions of epistemology:**
 - What is knowledge (What does it mean to say "I Know")?
 - How do we get knowledge?
 - Can what we call "knowledge" be so sure that we cannot doubt it
 
 It is concerned with our claims to knowledge and the methods we employ in arriving at what we claim to know. It serves as the standard of evaluating our knowledge claims so we would be better able to differentiate between true claims and false claims. 
 
-Knowledge is a combination of three elements:
+**Knowledge is a combination of three elements:**
 - Truth
 - Belief
 - Justification
@@ -135,7 +137,7 @@ Examples of epistemological questions:
 3. does our senses tell us anything about the world
 
 ### Ethics
-Define Ethics
+**Define Ethics:**
 It is the study of moral standards and how they affect human conduct; it helps in clarifying moral terms and concepts
 
 It is also know as **moral philosophy**.
@@ -190,21 +192,22 @@ Applied ethics is the dimension that enables one to make a right decision in suc
 
 ### Logic:
 
-What s logic
+**What is logic**
 It is the study of propositions and their use in argumentation; It is the theory of reasoning
 
-If epistemology is concerned with our knowledge of reality, the concern of logic is how we successfully justify between good reasons and bad reasons.
+If epistemology is concerned with our knowledge of reality, the concern of logic is how we *successfully justify* between good reasons and bad reasons.
 
-An argument is made up of propositions or declarative statements, which can be true or false. 
+An **argument** is made up of *propositions* or declarative statements, which can be *true* or *false*. 
 
-The conclusion stands for a particular claim one makes with a statement i.e "He is the most humble student"
+The **conclusion** stands for a particular **claim** one makes with a statement i.e "He is the most humble student"
 
-The premise serves as the reason one has for supporting the claim one made. 
-If the premises support the conclusion 100% then we say that it is a deductive argument. 
+The **premise** serves as the **reason** one has for **supporting** the claim one made. 
 
-If the premises only support the conclusion to some degree less than 100% then it is an inductive argument. 
+If the premises support the conclusion 100% then we say that it is a **deductive argument.** 
 
-Errors in reasoning are called fallacy. A fallacy is a bad argument or an argument that does not follow the correct reasoning method. 
+If the premises only support the conclusion to some degree less than 100% then it is an **inductive argument.** 
+
+Errors in reasoning are called **fallacy**. A fallacy is a *bad argument* or an argument that does *not* follow the correct reasoning method. 
 
 ---
 Philosophy also covers other disciplines such as Law, education, science, religion. All these disciplines and vocations are called *first order disciplines*. To be first order means they have a particular and specific range of subject matter they are dealing with. Philosophy is also in a sense a first order discipline. 
@@ -215,7 +218,7 @@ But it can also be called a second order discipline. By second order, it is the 
 
 # Chapter 5: Appearance and Reality
 
-Define immediate experience:
+**Define immediate experience:**
 Experience that  our senses give to us without  anything standing in between.
 
 **Why do we need to understand the difference between appearance and reality?**
@@ -233,7 +236,7 @@ The nature of color is dependent on a number of factors like light, and darkness
 
 The problem of scepticism and knowledge arises from the attempt to answer one fundamental question: Do we have any knowledge in this world that is so certain that nobody can doubt it? 
 
-Three fundamental categories of knowledge:
+**Three fundamental categories of knowledge:**
 - Knowledge of acquaintance (or, knowledge of: things, places, and persons)
 - Knowledge of skill or a special ability or performance (Knowledge of how)
 - Knowledge of facts (knowledge of that) or Propositional knowledge

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GNS 105/Chapter 1 & 2.md",
+                "file": "CPS 201/Mathematical Expressions.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNS 105/Chapter 1 & 2.md"
+                "file": "CPS 201/Mathematical Expressions.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNS 105/Chapter 1 & 2.md",
+                "file": "CPS 201/Mathematical Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNS 105/Chapter 1 & 2.md",
+                "file": "CPS 201/Mathematical Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,15 +140,15 @@
   },
   "active": "0f3a26abe01b5fdc",
   "lastOpenFiles": [
-    "CPS 207/MACHINE INSTRUCTIONS.md",
-    "ENT 201/Planning and Starting a New Business.md",
-    "ENT 201/Document/ENT 201 Week 5.pdf",
-    "ENT 201/Business Creativity and Innovation.md",
-    "CPS 207/Week 6.md",
-    "CPS 207/Foundations of Sequential Programming.md",
-    "CPS 207/Foundations of Sequential Programming Continuation.md",
-    "CPS 207/Programming Languages.md",
-    "CPS 207/Documents/CPS 207 Sequential Programming.pdf",
-    "CPS 207/CPS 207 INDEX.md"
+    "CPS 201/FORTRAN BASICS.md",
+    "CPS 201/FORTAN Operators.md",
+    "CPS 201/Introcution to Programming.md",
+    "CPS 201/Implicit None.md",
+    "CPS 201/Assignment 1.md",
+    "CPS 201/Data Types.md",
+    "CPS 201/Mathematical Expressions.md",
+    "CPS 201/Process of writing a computer program.md",
+    "CPS 201/Control Structures.md",
+    "GNS 105/Chapter 1 & 2.md"
   ]
 }
