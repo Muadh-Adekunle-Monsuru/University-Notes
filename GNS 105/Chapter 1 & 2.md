@@ -191,5 +191,79 @@ Applied ethics is the dimension that enables one to make a right decision in suc
 ### Logic:
 
 What s logic
+It is the study of propositions and their use in argumentation; It is the theory of reasoning
+
+If epistemology is concerned with our knowledge of reality, the concern of logic is how we successfully justify between good reasons and bad reasons.
+
+An argument is made up of propositions or declarative statements, which can be true or false. 
+
+The conclusion stands for a particular claim one makes with a statement i.e "He is the most humble student"
+
+The premise serves as the reason one has for supporting the claim one made. 
+If the premises support the conclusion 100% then we say that it is a deductive argument. 
+
+If the premises only support the conclusion to some degree less than 100% then it is an inductive argument. 
+
+Errors in reasoning are called fallacy. A fallacy is a bad argument or an argument that does not follow the correct reasoning method. 
+
+---
+Philosophy also covers other disciplines such as Law, education, science, religion. All these disciplines and vocations are called *first order disciplines*. To be first order means they have a particular and specific range of subject matter they are dealing with. Philosophy is also in a sense a first order discipline. 
+
+But it can also be called a second order discipline. By second order, it is the application of philosophical tools to the analysis of other first order disciplines. For example, there is philosophy of mind, all these are situations of applying philosophy to the subject matter of other disciplines.
+
+---
+
+# Chapter 5: Appearance and Reality
+
+Define immediate experience:
+Experience that  our senses give to us without  anything standing in between.
+
+**Why do we need to understand the difference between appearance and reality?**
+It is to help us be cautious in accepting all that is presented to us. 
+
+Our experience/senses does not always provide us with the knowledge about the real nature of things. 
+
+**Define reality:**
+Reality refers to what it means for anything to be or to exist. The totality of all things that are real in the universe. 
+
+The nature of color is dependent on a number of factors like light, and darkness, angle and so on. Color, in a sense, could therefore be characterized as an appearance because its reality is dependent on our thinking and perception. 
+
+---
+# Chapter 6: Skepticism and Knowledge
+
+The problem of scepticism and knowledge arises from the attempt to answer one fundamental question: Do we have any knowledge in this world that is so certain that nobody can doubt it? 
+
+Three fundamental categories of knowledge:
+- Knowledge of acquaintance (or, knowledge of: things, places, and persons)
+- Knowledge of skill or a special ability or performance (Knowledge of how)
+- Knowledge of facts (knowledge of that) or Propositional knowledge
+
+Propositional knowledge implies the possession of a piece of information that is not open to falsehood. In other words, any claim to know that so and so must be so certain, definite and reliable that it cannot be doubted. 
+
+There is a consensus in epistemology that knowledge derives from our beliefs. 
+
+
+### Scepticism
+
+Scepticism is the position that we can never have enough certainty in our claim to knowledge. 
+
+Scepticism questions the reasons, evidence and justification that we have for believing what we claim to believe. The fundamental challenge of the sceptic is not about the standards we employ to prove the truth of our claims. Rather, the sceptic poses is whether or not those standards are appropriate in supporting our claims. 
+
+
+**Two forms of scepticism** 
+- Universal scepticism
+- Limited Scepticism
+
+**Universal scepticism** is the claim that we can never know anything for certain. It argues that humans cannot have any kind of knowledge of anything because none of our beliefs are every justified, because there would always be reasons to doubt the reasons we give in support of our justifications. 
+
+```
+It is a difficult position to hold because it already presupposesthat there is at least one thing that we can know. In other words, if I claim that we can't know anything for certain, then I am also claiming that I know something for certain: What I know for certain is that we can never know anything for certain. 
+```
+
+
+**Limited scepticism,** hold the position that some of our knowledge claims- especially in science, religion and ethics;- are not really justified, and hence cannot be held with certainty. 
+
+
+
 
 
