@@ -249,6 +249,9 @@ Scepticism is the position that we can never have enough certainty in our claim 
 
 Scepticism questions the reasons, evidence and justification that we have for believing what we claim to believe. The fundamental challenge of the sceptic is not about the standards we employ to prove the truth of our claims. Rather, the sceptic poses is whether or not those standards are appropriate in supporting our claims. 
 
+**Scepticism is significant in two respects;**
+- it helps us not to accept claims and dogmatic statements that are not supported with evidence
+- It motivates us to reflect on our own claims so as to only make valid claims
 
 **Two forms of scepticism** 
 - Universal scepticism
@@ -264,6 +267,7 @@ It is a difficult position to hold because it already presupposesthat there is a
 **Limited scepticism,** hold the position that some of our knowledge claims- especially in science, religion and ethics;- are not really justified, and hence cannot be held with certainty. 
 
 
-
+**Differentiate between universal scepticism and limited scepticism?**
+The difference is concerning the scope of each of them. Universal skepticism holds that we cannot know anything for sure. While limited scepticism holds that we can know some things for certain. 
 
 
