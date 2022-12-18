@@ -76,3 +76,120 @@ involves generating better visions and pictures that will serve as further guide
 # Chapter 4: Branches of Philosophy
 
 
+We should divide philosophical questions into categories for the purpose of enabling us to separate the questions so that we can have and intelligible and less confusing perspective. 
+
+The three fundamental questions:
+- What is ultimately real?
+- How do we know this reality and justify it?
+- Having know this reality, how do we live a meaningful life?
+The core branches of philosophy:
+- Metaphysics
+- Epistemology
+- Ethics
+
+### Metaphysics
+
+Define Metaphysics:
+The philosophy of being and existence; Metaphysics examines the real nature of things as opposed to their apparent consitiution. Or simply the thoery of reality, or what is real. 
+
+Metaphysics is the most comprehensive of all enquiries that human beings are involved in, this is because the most fundamental question is What is?
+
+Metaphysical problems arise when we are not able to perceive immediately how the things around hand together. 
+
+Examples of metaphysical questions:
+- do we have a mind
+- what is the soul
+- what kind of creature am i
+
+### Epistemology
+
+Define Epistemology:
+Epistemology is concerned with the nature, origin, scope, possibility, and limit of human knowledge. 
+
+Epistemology is often called the ***Theory of knowledge***
+
+The branch comes after metaphysics, this is because if we eventually agree on what we count to be real and unreal, the next obvious question we must ask is: *How do we get to know what is real and unreal.*
+
+Three fundamental questions of epistemology:
+- What is knowledge (What does it mean to say "I Know")?
+- How do we get knowledge?
+- Can what we call "knowledge" be so sure that we cannot doubt it
+
+It is concerned with our claims to knowledge and the methods we employ in arriving at what we claim to know. It serves as the standard of evaluating our knowledge claims so we would be better able to differentiate between true claims and false claims. 
+
+Knowledge is a combination of three elements:
+- Truth
+- Belief
+- Justification
+
+
+	*For example:
+	When one says, "I know that there is a book in front of me now", for us to know that it is a piece of knowledge
+	1. it must actually be true that there is a book in front of you(if it is something else, then you can't claim it is a book);
+	2. you must actually believe that there is a book in front of you(it is not correct to say" I know there is a book in front of me, but I don't believe it")
+	3. you must also have a reason for believing that the book is there. If one is ask how they know that the book is there, one can't just reply with "I just know"*
+
+Examples of epistemological questions:
+1. what is knowledge
+2. what is truth
+3. does our senses tell us anything about the world
+
+### Ethics
+Define Ethics
+It is the study of moral standards and how they affect human conduct; it helps in clarifying moral terms and concepts
+
+It is also know as **moral philosophy**.
+Ethics is only concerned with human moral value; that is worthwhile for us human to purse by the way of our *actions* and *behaviors*.
+
+Action stands for the process of doing something in order to achieve a goal.
+
+##### **Three** fundamental dimensions to understand the work of ethicists:
+- Normative ethics
+- meta-ethics
+- Moral dilemmas
+
+**Normative ethics** is the attempt to determine the rightness and wrongness of human actions. It is an attempt to come up with a rational and defensible theory about what makes any action right or wrong. 
+
+**Principles an ethicist could consider to make moral judgements**:
+- the moral value of an action should be judged in terms of the **consequences of that action** (Thus if stealing food saves the lives of many children, it is ethically "good")
+- The nature of the action itself and not the consequence. (Since stealing itself is wrong, it doesn't matter if many children starve to death, one shouldn't steal at all)
+
+**Ethical Egoism**: Saying an action is right if it promotes ones best interest alone to the detriment of others. And if an action neglects you, then it must be wrong.
+
+Ethicists are also interested in the question of whether or not he moral principles apply to everybody **equally** or whether it is the **situation** that determines the moral judgement of an action
+
+
+**Meta-ethics:**
+
+Moral judgement refers to the activity of judging whether or not an action, a person, something, or an institution has a moral attribute. 
+
+When one says "Don is a good person" what does one mean by "good". 
+
+
+The dimension of ethics that considers the issue of where our moral terms and principles come from. 
+
+**Three questions that comes under meta-ethics:**
+- Are moral standards and principles dependent on the agreement of human beings or are they existing on their own?
+- What motivates human beings to be moral? 
+- What is the meaning of "good", "right", "wrong", "immoral", "bad"
+
+	1. Are moral standards objective (God Commanded) or subjective (Depends on societal taste)
+	2. Possible answer to the question raised:
+		1. We are motived to be moral because we have been endowed with an inner sense of right and wrong; which tells us subconsciously the right way to achieve happiness in life.
+		2. We are motivated because we are selfish beings always looking for what is in our own interests
+		3. Our reason motivates us to do good things. 
+	3. It is purely linguistic. So argue that these terms express one emotions and desires about something, while other argue that one is referring to certain natural qualities like pleasure. 
+
+**Moral Dilemmas:**
+A moral dilemma is a certain situation which requires making a choice between two opposing courses of action. Each of these courses of action has good reason in support of it. 
+*check page 41-42 for examples*
+
+Applied ethics is the dimension that enables one to make a right decision in such situations. It combines strategies gained in normative ethics and meta-ethics to analyses highly contested issues. 
+
+
+
+### Logic:
+
+What s logic
+
+
