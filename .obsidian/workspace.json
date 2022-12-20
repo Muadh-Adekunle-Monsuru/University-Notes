@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f3a26abe01b5fdc",
+            "id": "64eb287b66b90840",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 201/Mathematical Expressions.md",
-                "mode": "preview",
+                "file": "CPS 205/Classwork.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minterms",
+                "query": "integrated c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50235748291016,
-    "collapsed": true
+    "width": 224.50235748291016
   },
   "right": {
     "id": "c6423d6357a6c7a4",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 201/Mathematical Expressions.md"
+                "file": "CPS 205/Classwork.md"
               }
             }
           },
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 201/Mathematical Expressions.md",
+                "file": "CPS 205/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,30 +124,31 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 201/Mathematical Expressions.md",
+                "file": "CPS 205/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
   },
-  "active": "0f3a26abe01b5fdc",
+  "active": "64eb287b66b90840",
   "lastOpenFiles": [
-    "CPS 201/FORTRAN BASICS.md",
-    "CPS 201/FORTAN Operators.md",
-    "CPS 201/Introcution to Programming.md",
+    "CPS 205/Circuit Design Cont.md",
+    "CPS 205/Classwork.md",
+    "CPS 205/Module 1.md",
+    "CPS 205/Unit 3.md",
+    "CPS 205/Circuit Design Intro.md",
+    "CPS 205/CPS 205 INDEX.md",
+    "CPS 205/Assigment/Assignment 1.md",
+    "CPS 205/Unit 1 & 2.md",
     "CPS 201/Implicit None.md",
-    "CPS 201/Assignment 1.md",
-    "CPS 201/Data Types.md",
-    "CPS 201/Mathematical Expressions.md",
-    "CPS 201/Process of writing a computer program.md",
-    "CPS 201/Control Structures.md",
-    "GNS 105/Chapter 1 & 2.md"
+    "CPS 201/Introcution to Programming.md"
   ]
 }
