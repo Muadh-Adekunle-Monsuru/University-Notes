@@ -1,15 +1,15 @@
 **Four rules of binary addition:**
 ![](CPS%20101/Documents/Images/Pasted%20image%2020221124175547.png)
 
-#### Representing Signed Numbers:
+### Representing Signed Numbers:
 
-- Sign/Magnitude Notation:
+#### Sign/Magnitude Notation:
 The first (leftmost) bit would be used to represent the sign of the number. 1 being negative and 0 being positive, while the remaining bits represent the magnitude of the number. 
 
 For Example: 
 ![](CPS%20101/Documents/Images/Pasted%20image%2020221124175913.png)
 
-- Two's complement representation:
+#### Two's complement representation:
 all binary patterns from 000 . . . 0 to 111 . . . 1 in increasing order. Here is what that circle might look like using 3-digit numbers:
 ![](CPS%20101/Documents/Images/Pasted%20image%2020221124180216.png)
 ![](CPS%20101/Documents/Images/Pasted%20image%2020221124180256.png)
