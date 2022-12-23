@@ -20,6 +20,10 @@ Objectives:
 <head></head> - Where the program begins
 <title></title> - Also used for bookmarking
 <body></body>
+<p>
+<img>
+<br>
+
 ```
 
 **Tags** are also referred to as **element**

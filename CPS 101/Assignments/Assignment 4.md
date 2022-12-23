@@ -3,7 +3,7 @@ A compiler takes the program code (source code) and converts the source code to 
 
 The compilation process goes through multiple stages before the machine code is produced at the end. 
 
-![](CPS%20101/Pasted%20image%2020221203171926.png)
+![](CPS%20101/Documents/Pasted%20image%2020221203171926.png)
 **2. Types of compiler:**
 	1. **Cross Compilers**: Produce an executable machine code for a platform but, this platform is not the one on which the compiler is running.
 	2. **Bootstrap compilers**: These compilers are written in a programming language that they have to compile.
