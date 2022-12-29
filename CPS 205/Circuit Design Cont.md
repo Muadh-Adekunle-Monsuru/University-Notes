@@ -9,7 +9,7 @@ It is a product term because each of the literal is multiplied together to form 
 
 
 > [!Example]
->1. (A + B)(Abar +C )(B+Cbar)(A + B + C)
+>1. (A + B)(A' +C )(B+C')(A + B + C)
 >	1. Product of sum
 >	2. 3 variables, 9 literals, 3 product of terms
 >	3. 1 Maxterms

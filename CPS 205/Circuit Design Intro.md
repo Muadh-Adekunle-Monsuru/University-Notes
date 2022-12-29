@@ -24,8 +24,9 @@ When one has sum terms which is combined with AND Gate
 Every variable that one sees including complements in an expression is called a literal.
 
 #### **SOP - Sum of Product**:
-The expression is shows one using an OR Gate to sum the three expressions
-The individual expressions are called product terms. 
-When one has product terms which is combined with OR Gate
+The expression below shows one using an OR Gate to sum the three expressions
+The individual expressions are called *product terms.* 
 
-$$AB + AbarB + BbarC$$
+**When one has product terms which is combined with OR Gate**
+
+$$AB + ĀB + ḂC$$

@@ -11,3 +11,4 @@
 
 **Class 4**
 [[CPS 205/Circuit Design Cont]]
+[[CPS 205/Type of IC]]

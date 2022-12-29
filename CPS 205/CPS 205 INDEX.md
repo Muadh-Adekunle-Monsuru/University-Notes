@@ -1,4 +1,4 @@
-ions of CPS 205:
+Sections of CPS 205:
 
 ### Computer Design:
 - Circuit Fundamentals
