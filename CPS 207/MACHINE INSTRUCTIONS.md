@@ -71,17 +71,17 @@ The CPU and some other components connected to it form the microprocessor
 - Configuration Registers
 
 ### The CPU
-   - It is the brain of the processor. All execution and computation of instructions occurs in it. It is subdivided into three parts:
+   - It is the brain of the processor. All execution and computation of instructions occurs in it. Connected together by ==internal buses== It is subdivided into three parts:
 		- Arithmetic and Logic Unit (ALU)
 		- Control Unit (CU)
-		- Set or registers
+		- Set of registers
 
      - The ALU performs logic, shift, and arithmetic operations on the data. 
 		- **Logic Operations:** They include, NOT, AND, OR etc. 
 		- **Shift Operations:** Shift bit patterns to the left or right
 		- **Arithmetic Operations:** Involves adding, subtracting, multiplying numbers.
 ##### The Registers
-  Registers are fast stand-alone storage locations the hold data temporarily. 
+  Registers are fast stand-alone storage locations the hold data temporarily. They can be 8 bits, 16, 32, 64. 
 Examples of registers:
 	- **Data Registers:** Register inside CPU to speed up their operations
 	- **Instruction Registers:** Stores the instructions to be carried out

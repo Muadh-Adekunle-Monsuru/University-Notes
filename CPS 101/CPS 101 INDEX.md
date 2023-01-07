@@ -20,4 +20,9 @@ Class 5:
 
 Class 6
 [[CPS 101/Visual Basic (Practical Class)]]
+
+1-23 A
+24-46 B
+47-end C
+
 Bookmark: Page 170

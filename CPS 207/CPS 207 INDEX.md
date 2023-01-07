@@ -11,6 +11,8 @@ Mr Azeez Akinlolu & Dr Ogunrinde
 6. Explain the cycle through which the processor executes each instruction
 7. Explain block structured programming
 8. Explain methods of parameter passing in programming
+
+**Mr Akinlolu**
 **Class 1:**
 [[Programming Languages]]
 
@@ -24,4 +26,16 @@ Mr Azeez Akinlolu & Dr Ogunrinde
 [Foundations of Sequential Programming Continuation](CPS%20207/Foundations%20of%20Sequential%20Programming%20Continuation.md)
 
 [MACHINE INSTRUCTIONS](CPS%20207/MACHINE%20INSTRUCTIONS.md)
+
+**Dr Ogunrinde:**
+
+**Class 1:**
+[Assembly Language 2](CPS%20207/Assembly%20Language%202.md)
+
+**Class 2:**
+[[CPS 207/Data Definition]]
+
+**Mr Bello:**
+
+[[Hello World in Assembly]]
 

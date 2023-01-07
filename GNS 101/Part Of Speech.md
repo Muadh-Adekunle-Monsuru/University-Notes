@@ -70,7 +70,7 @@ Types of Pronouns:
 ---
 ### Verb
 It is a word that denotes an action, occurrence or state of being. It is the most important part of speech.
-
+The verb can be a finite or non-finite verb. A finite verb is a verb that is tied to the subject, e.g., He goes to school. If the subject, ‘he’ is changed to ‘they’, for instance, the verb, ‘goes’ becomes ‘go’. Therefore, it is a finite verb. On the other hand, a non-finite verb is a verb that is not tied to the subject, e.g., Beaten by snake, he died. The verb, ‘beaten’ is a non-finite verb because it is not tied to any subject
 ### Auxiliary Verbs:
 Auxiliary verbs are verbs that are used together with the main verb of a sentence to express the action or state. They are divided into two:
 	**Primary**: 

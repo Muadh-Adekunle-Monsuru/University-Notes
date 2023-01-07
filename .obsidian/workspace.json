@@ -4,41 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1298195b43f5db34",
+        "id": "42d93ea437d197d5",
         "type": "tabs",
         "children": [
           {
-            "id": "7eac6fd0fa2e4e42",
+            "id": "85b90170b84fcc4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 205/Classwork.md",
-                "mode": "preview",
+                "file": "CPS 205/Unit 3.md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "525e567f282bd4a4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CPS 205/Document/cmputer circuits.pdf"
-              }
-            }
-          },
-          {
-            "id": "cb730aa319e22ca5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "complem",
+                "query": "example",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50235748291016,
-    "collapsed": true
+    "width": 224.50235748291016
   },
   "right": {
     "id": "c6423d6357a6c7a4",
@@ -115,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CPS 205/Unit 3.md"
+              }
             }
           },
           {
@@ -124,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CPS 205/Unit 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CPS 205/Unit 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,17 +148,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cb730aa319e22ca5",
+  "active": "85b90170b84fcc4f",
   "lastOpenFiles": [
+    "CPS 205/Unit 1 & 2.md",
+    "CPS 205/Circuit Design Cont.md",
+    "CPS 205/Simplifying Circuits.md",
+    "CPS 205/Circuit Design Intro.md",
+    "CPS 205/Document/Unit 3.pdf",
+    "CPS 205/Document/UNIT1 AND 2.pdf",
+    "CPS 205/Document/unit 4 CIRCUIT DESIGN.pdf",
     "CPS 205/Document/cmputer circuits.pdf",
-    "CPS 205/Classwork.md",
-    "CPS 205/Type of IC.md",
-    "CPS 205/Three Circuits Using Only NAND Gates.md",
-    "CPS 205/Document/Lecture5-Karnaugh Map.pdf",
-    "CPS 205/Document/Pasted image 20221212094737.png",
-    "CPS 205/Document/CPS206Overview.pdf",
-    "CPS 205/Module 1.md",
-    "CPS 205/CPS 205 INDEX.md",
-    "CPS 205/Document/UNIT1 AND 2.pdf"
+    "CPS 201/Document/fortranA.pdf",
+    "CPS 201/Functions and Subroutines.md"
   ]
 }
