@@ -19,3 +19,11 @@ A type I error (false-positive) occurs if an investigator rejects a null hypothe
 
 **Difference between correlation and regression:**
 Correlation quantifies the strength of the linear relationship between a pair of variables, whereas regression expresses the relationship in the form of an equation.
+
+**One and Two tailed test**
+
+In a one-tailed test, the alternative hypothesis specifies the direction of the effect. For example, if we are testing the effect of a new drug on blood pressure, the alternative hypothesis might be that the drug will lower blood pressure, but not that it will increase blood pressure. This would be a one-tailed test because we are only interested in the direction of the effect that is specified in the alternative hypothesis.
+
+In a two-tailed test, the alternative hypothesis does not specify the direction of the effect. Instead, it only states that the effect is different from the null hypothesis. For example, in the drug example above, the alternative hypothesis might be that the drug will have any effect on blood pressure (either increase or decrease). This would be a two-tailed test because the alternative hypothesis does not specify the direction of the effect.
+
+In general, one-tailed tests are more powerful than two-tailed tests, but they are also more specific. If you have a strong prediction about the direction of the effect, a one-tailed test might be appropriate. If you are simply testing for the presence of an effect without any specific prediction about the direction, a two-tailed test might be more appropriate.

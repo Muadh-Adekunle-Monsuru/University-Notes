@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "42d93ea437d197d5",
+        "id": "741620622de2d518",
         "type": "tabs",
         "children": [
           {
-            "id": "85b90170b84fcc4f",
+            "id": "6b82c1f1d770524d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 205/Unit 3.md",
+                "file": "CPS 207/Programming Languages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab956fbb2071c623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 201/Introduction New.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7ad885ca544acfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GNS 101/Tense.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "example",
+                "query": " natural ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50235748291016
+    "width": 224.50235748291016,
+    "collapsed": true
   },
   "right": {
     "id": "c6423d6357a6c7a4",
@@ -96,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 205/Unit 3.md"
+                "file": "CPS 201/Introduction New.md"
               }
             }
           },
@@ -106,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 205/Unit 3.md",
+                "file": "CPS 201/Introduction New.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 205/Unit 3.md",
+                "file": "CPS 201/Introduction New.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,17 +174,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "85b90170b84fcc4f",
+  "active": "ab956fbb2071c623",
   "lastOpenFiles": [
-    "CPS 205/Unit 1 & 2.md",
-    "CPS 205/Circuit Design Cont.md",
-    "CPS 205/Simplifying Circuits.md",
-    "CPS 205/Circuit Design Intro.md",
-    "CPS 205/Document/Unit 3.pdf",
-    "CPS 205/Document/UNIT1 AND 2.pdf",
-    "CPS 205/Document/unit 4 CIRCUIT DESIGN.pdf",
-    "CPS 205/Document/cmputer circuits.pdf",
+    "CPS 201/_CPS 201 INDEX.md",
+    "CPS 201/Introduction New.md",
+    "CPS 207/Programming Languages.md",
     "CPS 201/Document/fortranA.pdf",
-    "CPS 201/Functions and Subroutines.md"
+    "CPS 207/Data Definition.md",
+    "GNS 101/Composition of Sentence.md",
+    "GNS 101/Tense.md",
+    "GNS 101/GNS 101.pdf",
+    "STA 201/Past-Papers Notes.md",
+    "Untitled.md"
   ]
 }

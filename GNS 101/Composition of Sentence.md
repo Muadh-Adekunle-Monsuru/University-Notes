@@ -54,3 +54,23 @@ It is a group of words with a verb
 - **Relative clause:** A clause that gives more information about a noun. Separated by a comma. 
 - **Adverbial clause:** A clause that modifies a verb 
 	I saw you *while you were sleeping* in class
+
+
+
+### Sentence
+
+A sentence is a complete statement. It has a subject and a predicate.
+
+**Classification of Sentences According to Function**
+1. Declarative Sentence: Used to make declarations
+2. Interrogative Sentence: Used to ask questions
+3. Imperative Sentence: Used to give commands
+4. Exclamatory Sentence: Express a feeling of emotion
+
+**Classification of Sentence According to Structure:**
+1. **Simple Sentence:** It is made up of just a main clause, *I Love my mum*
+2. **Complex Sentence:** Only one *main clause* and one or more *subordinate* clause, *Nigeria is a great country because it is the largest economy in Africa.*
+3. **Compound Sentence:** It is made up of *two main* clauses. *I came to school and attended all my classes*
+4. **Compound Complex:** Two main clauses and one or more subordinate clauses. *he came and did it when you were abroad*,n *He bought it but handed it over to me when you were away because he did not way you to know that he dashed it out*
+5. **Multiple Sentence:** Made up of three main clauses *Buy it, keep it and give it to your child in the future*
+6. **Multiple complex sentences:** Three main clauses and one or more subordinate clauses. *He read, played and prayed in order to pass his final exam which is ticket to travel aborad*

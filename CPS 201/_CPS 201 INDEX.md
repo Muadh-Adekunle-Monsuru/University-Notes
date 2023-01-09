@@ -40,5 +40,8 @@ Computer Programming I
 - **Class 4**
 	- [FORTAN Operators](CPS%20201/FORTAN%20Operators.md)
 
-
 [[Functions and Subroutines]]
+
+
+**Mr Fikayo:**
+[Introduction New](CPS%20201/Introduction%20New.md)
