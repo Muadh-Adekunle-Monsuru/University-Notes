@@ -12,6 +12,8 @@ Sections of CPS 205:
 - CPUs
 - Secondary Storage
 
+Mrs Abdulsalam
+	[[Module 1]]
 
- [[Module 1]]
- 
+Mr Akinlolu
+	[[Module 2]]

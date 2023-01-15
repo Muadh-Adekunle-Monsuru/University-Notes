@@ -1,1 +1,1 @@
-![](Pasted%20image%2020230107111441.png)
+![](CPS%20201/Document/Pasted%20image%2020230107111441.png)

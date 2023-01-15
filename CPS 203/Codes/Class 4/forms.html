@@ -3,27 +3,69 @@
     <head>
         <title>Learning Forms</title>
         <style>
-            label, input{
-                display: block;
-                margin:4px;
-            }
+
             input{
                 padding: 20px;   
-                margin-left:15px; 
+                margin:10px auto auto 15px; 
             }
             label{
                 font-family: Verdana, Geneva, Tahoma, sans-serif;
+
             }
+            #javascript,#javalabel{
+                display: inline;
+            }
+        #firstform{
+            background-color: antiquewhite;
+            border:solid black 1px ;
+            width:350px;
+            margin-right: auto;
+            margin-left: auto;
+        }
         </style>
     </head>
     <body>
         <h1>This is a page all about FORMS</h1>
-        <form>
-            <label for="fname">First Name:</label>
-            <input type="text" name="fname" value="First Name">
-            <label for="lname">Last Name:</label>
-            <input type="text" name="lname" value="Last Name">
+        <div>
+        <form id="firstform">
+            <label for="fname">Name:</label>
+            <input type="text" name="fname" value=" Name"><br>
+            <label for="lname">Email:</label>
+            <input type="text" name="lname" value="Last Name"><br>
+            <label for="lname">State Of Origin:</label>
+            <input type="" name="lname" value="Last Name"><br>
+          
+            
+
+            <input type="radio id="css" name="fav_language" value="CSS">
+                <label for="css">M </label> <br>
+            <input type="radio" id="css" name="fav_language" value="CSS">
+                <label for="css">F </label><br>
+
             <input type="button" value="Submit">
         </form>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <script id="__bs_script__">//<![CDATA[
+
+                        document.write("<script async src='http://HOST:3002/browser-sync/browser-sync-client.js?v=2.27.11'><\/script>".replace("HOST", location.hostname));
+            
+                    //]]></script>
     </body>
 </html>

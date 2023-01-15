@@ -22,6 +22,6 @@ High Level Language: Close to English language expressions
 Translators: Programs that converts from other programming languages to its machine language equivalent. 
 
 Types of Translators: 
-- Assembler
-- Compiler
-- Interpreter
+- Assembler: Assembly language to machine language equivalent
+- Compiler: High level language to machine language equivalent
+- Interpreter: Alternative to interpreter

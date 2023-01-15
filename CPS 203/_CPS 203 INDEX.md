@@ -13,11 +13,8 @@ Mrs Abdulsalam & Mr Bello
 
 browser-sync start --server --directory --files "*"
 
- <script id="__bs_script__">//<![CDATA[
-
-            document.write("<script async src='http://HOST:3002/browser-sync/browser-sync-client.js?v=2.27.11'><\/script>".replace("HOST", location.hostname));
-
-        //]]></script>
+ <script id="__bs_script__">//<![CDATA[ 
+ document.write("<script async src='http://HOST:3002/browser-sync/browser-sync-client.js?v=2.27.11'><\/script>".replace("HOST", location.hostname)); //]]></script>
 
 **Class 1:**
 [[Web]]
@@ -33,6 +30,9 @@ Class 3:
 Class 4:
 [[html tables]]
 
+
+Class5:
+[[CPS 203/HTML Forms]]
 Assignments:
 - [[CPS 203/Assignment/203 Assignment 1 ]]
 - [203 Assignment 2](CPS%20203/Assignment/203%20Assignment%202.md)

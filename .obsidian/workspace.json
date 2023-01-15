@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "741620622de2d518",
+        "id": "1ed97cff9cf8e099",
         "type": "tabs",
         "children": [
           {
-            "id": "6b82c1f1d770524d",
+            "id": "1489698aae21346a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 207/Programming Languages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab956fbb2071c623",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 201/Introduction New.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7ad885ca544acfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GNS 101/Tense.md",
-                "mode": "source",
+                "file": "GNS 105/Value, Beliefs & Worldview.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " natural ",
+                "query": "mailto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50235748291016,
+    "width": 221.50235748291016,
     "collapsed": true
   },
   "right": {
@@ -122,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 201/Introduction New.md"
+                "file": "GNS 105/Value, Beliefs & Worldview.md"
               }
             }
           },
@@ -132,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 201/Introduction New.md",
+                "file": "GNS 105/Value, Beliefs & Worldview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 201/Introduction New.md",
+                "file": "GNS 105/Value, Beliefs & Worldview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,17 +149,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ab956fbb2071c623",
+  "active": "1489698aae21346a",
   "lastOpenFiles": [
-    "CPS 201/_CPS 201 INDEX.md",
-    "CPS 201/Introduction New.md",
-    "CPS 207/Programming Languages.md",
-    "CPS 201/Document/fortranA.pdf",
-    "CPS 207/Data Definition.md",
-    "GNS 101/Composition of Sentence.md",
-    "GNS 101/Tense.md",
-    "GNS 101/GNS 101.pdf",
-    "STA 201/Past-Papers Notes.md",
-    "Untitled.md"
+    "GNS 105/Chapter 1 & 2.md",
+    "CPS 207/Past Question 1.md",
+    "Pasted image 20230112062451.png",
+    "GNS 105/Value, Beliefs & Worldview.md",
+    "CPS 203/HTML Forms.md",
+    "CPS 203/Structural Element & Links.md",
+    "CPS 203/_CPS 203 INDEX.md",
+    "CPS 207/Register Assignment.md",
+    "CPS 207/CPS 207 INDEX.md",
+    "CPS 203/Document/WEB DEVELOPMENT.pdf"
   ]
 }

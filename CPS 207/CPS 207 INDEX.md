@@ -39,3 +39,6 @@ Mr Azeez Akinlolu & Dr Ogunrinde
 
 [[Hello World in Assembly]]
 
+[[Register Assignment]]
+
+[[Past Question 1]]
