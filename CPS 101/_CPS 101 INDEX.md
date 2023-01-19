@@ -20,9 +20,10 @@ Class 5:
 
 Class 6
 [[CPS 101/Visual Basic (Practical Class)]]
+[101 Class](CPS%20101/101%20Class.md)
+Assignment:
+[101 Assignment 2](CPS%20101/Assignments/101%20Assignment%202.md)
+[101 Assignment 3](CPS%20101/Assignments/101%20Assignment%203.md)
 
-1-23 A
-24-46 B
-47-end C
 
 Bookmark: Page 170

@@ -17,3 +17,8 @@ Mrs Abdulsalam
 
 Mr Akinlolu
 	[[Module 2]]
+
+Assigment:
+[Simplifying Circuits](CPS%20205/Simplifying%20Circuits.md)
+
+[205 Assignment 1](CPS%20205/Assigment/205%20Assignment%201.md)

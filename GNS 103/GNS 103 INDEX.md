@@ -5,3 +5,7 @@
 [Cataloguing Of Library Material](GNS%20103/Cataloguing%20Of%20Library%20Material.md)
 
 [[Study Skills]]
+
+[Classification of Library Materials](GNS%20103/Classification%20of%20Library%20Materials.md)
+
+[Resources in the Library](GNS%20103/Resources%20in%20the%20Library.md)

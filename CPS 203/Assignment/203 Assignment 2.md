@@ -8,7 +8,6 @@
 
 2. **Difference between web app and desktop using the following parameters**
 	- **Maintenance:** Web Applications can be updated frequently as there is no need to inform users to constantly update their application from the application store or download the latest versions of the software. Few b
-
 	- **Usage Scale**: Web applications would have a marginable higher amount of users than desktop applications, as the number of desktop users are far fewer than the number of mobile users. 
 	- **Speed and performance:** The performance of a desktop application would be better than that of a web app as the software is in direct communication with the OS more resources are allocated to the desktop app. The web app has to interact with the browser which then requests resources from the OS. The speed of either desktop app or web app depends on the application in use and the type of desktop and internet speeds available to the client.    
 	- **Bandwidth Cost:** Web applications mostly require the client to have a constant internet connection to allow it to communicate with the servers. This would demand alot of bandwidth which can be costly in some parts of the world. While most desktop applications can perform most of their functions without requiring an interne connection. 

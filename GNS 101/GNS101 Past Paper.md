@@ -1,4 +1,6 @@
 
+[05/01/2019]
+
 1a. What type of reading does one need to know what a text is basically  all about?
 b. Which type of reading involves mere paying attention to the introduction and conclusion of a print?
 c. If you are advised to think outside the box or lines as a writ, what are you expected to do?

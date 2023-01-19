@@ -12,6 +12,10 @@ Alternative hypotheses: A claim that there is an effect in the population
 **What is a simple hypotheses:**
 A hypothesis that, when true, completely specifies the population distribution is called a _simple_ hypothesis; one that does not is called a _composite_ hypothesis.
 
+A simple hypothesis is one which specifies a single specific prediction about the relationship between two variables
+
+A composite hypothesis is made up of multiple simple hypothesis that are related to each other. 
+
 **What are type 1 errors:**
 The first of these, called a _type I error,_ is said to result if the test incorrectly calls for rejecting Ho when it is indeed correct. The second, called a _type II error,_ results if the test calls for accepting $H_0$ when it is false.
 
@@ -20,6 +24,7 @@ A type I error (false-positive) occurs if an investigator rejects a null hypothe
 **Difference between correlation and regression:**
 Correlation quantifies the strength of the linear relationship between a pair of variables, whereas regression expresses the relationship in the form of an equation.
 
+
 **One and Two tailed test**
 
 In a one-tailed test, the alternative hypothesis specifies the direction of the effect. For example, if we are testing the effect of a new drug on blood pressure, the alternative hypothesis might be that the drug will lower blood pressure, but not that it will increase blood pressure. This would be a one-tailed test because we are only interested in the direction of the effect that is specified in the alternative hypothesis.
@@ -27,3 +32,17 @@ In a one-tailed test, the alternative hypothesis specifies the direction of the 
 In a two-tailed test, the alternative hypothesis does not specify the direction of the effect. Instead, it only states that the effect is different from the null hypothesis. For example, in the drug example above, the alternative hypothesis might be that the drug will have any effect on blood pressure (either increase or decrease). This would be a two-tailed test because the alternative hypothesis does not specify the direction of the effect.
 
 In general, one-tailed tests are more powerful than two-tailed tests, but they are also more specific. If you have a strong prediction about the direction of the effect, a one-tailed test might be appropriate. If you are simply testing for the presence of an effect without any specific prediction about the direction, a two-tailed test might be more appropriate.
+
+Standard error of mean is a measure of **precision**
+
+Standard deviation of a sampling distribution is called the **standard error**
+
+As a general rule, researchers tend to use **95%** confidence interval
+
+Standard error of mean represents the variability of the **mean** itself
+
+With samples less than 30, **standard error** of mean is an estimate of population standard deviation
+
+With samples more than 30, **sample standard deviation** is an estimate of population standard deviation.
+
+The confidence intervals are quoted as a mean and range. 

@@ -27,6 +27,10 @@ Mr Azeez Akinlolu & Dr Ogunrinde
 
 [MACHINE INSTRUCTIONS](CPS%20207/MACHINE%20INSTRUCTIONS.md)
 
+**Assignments:**
+[207 Assignment 1](CPS%20207/Assignment/207%20Assignment%201.md)
+[207 Assignment 2](CPS%20207/Assignment/207%20Assignment%202.md)
+
 **Dr Ogunrinde:**
 
 **Class 1:**
@@ -35,6 +39,8 @@ Mr Azeez Akinlolu & Dr Ogunrinde
 **Class 2:**
 [[CPS 207/Data Definition]]
 
+[Instruction Set](CPS%20207/Instruction%20Set.md)
+
 **Mr Bello:**
 
 [[Hello World in Assembly]]
@@ -42,3 +48,5 @@ Mr Azeez Akinlolu & Dr Ogunrinde
 [[Register Assignment]]
 
 [[Past Question 1]]
+
+[207 Past Question 1 Solved](CPS%20207/207%20Past%20Question%201%20Solved.md)

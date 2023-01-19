@@ -13,7 +13,7 @@ For Example:
 all binary patterns from 000 . . . 0 to 111 . . . 1 in increasing order. Here is what that circle might look like using 3-digit numbers:
 ![](CPS%20101/Documents/Images/Pasted%20image%2020221124180216.png)
 ![](CPS%20101/Documents/Images/Pasted%20image%2020221124180256.png)
-![](Pasted%20image%2020230112062451.png)
+![](CPS%20101/Pasted%20image%2020230112062451.png)
 
 ---
 #### Fractional Numbers

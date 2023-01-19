@@ -1,0 +1,11 @@
+Nigeria is generally considered to be a collectivist culture, where the needs and goals of the community are prioritized over those of the individual. However, it is worth noting that there can be variations in cultural values within a country, and individualism may also be present in certain Nigerian communities or subcultures.
+
+In a collectivist culture like Nigeria, people tend to have a strong sense of belonging to their family, ethnic or religious group, and place a high value on social harmony, loyalty and interdependence within these groups. The emphasis is on the collective, rather than the individual, and people are expected to put the needs of the group before their own personal goals or desires. This can be seen in the importance placed on extended family and community networks, as well as the social expectations of sharing resources and helping others in need. However, in Nigeria there are variations in cultural values, as some communities may be more individualistic and focus on self-reliance and personal achievement. Additionally, with the increasing urbanization and modernization of Nigeria, individualism is becoming more prevalent, especially among the youth.
+
+
+### Power Relations
+Power relations refer to the ways in which individuals or groups exert power and influence over one another in a given social context. These relationships are often characterized by imbalances of power, with some individuals or groups having more power or control than others. Power relations can be based on a variety of factors, including social status, wealth, education, race, gender, and other forms of social inequality.
+
+Power relations can manifest in various ways, such as in the workplace, where certain individuals or groups may have more decision-making authority or access to resources, or in society at large, where certain groups may be marginalized or oppressed by dominant groups. Power relations can also be visible in interpersonal relationships, where one person may exert power over another through manipulation or coercion.
+
+It is important to note that power relations are not fixed or static, but rather are constantly evolving and changing, and can be challenged and transformed through various forms of resistance and social change.

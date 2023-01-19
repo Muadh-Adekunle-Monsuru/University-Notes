@@ -36,7 +36,7 @@ a group of words that has a subject and a predicate
 
 - **Verbal Phrase:** a group of auxiliary verb or verb and a main verb 
 	e.g. has being sleeping, he is going, we will be coming
-
+- **Adverbial Phrase:** This modifies a predicator, e.g. I do it very quickly, He performed extremely well indeed, I saw him last week
 ### Clause:
 It is a group of words with a verb
 **Types of clauses:**

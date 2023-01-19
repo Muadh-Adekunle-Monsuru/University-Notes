@@ -1,5 +1,9 @@
 [07/12/2022]
 
+**What is a catalogue**:
+A library catalogue is a register of all bibliographic items found in a library. It contains descriptive information of items outlying imprint and collation of the book. 
+
+
 **Define Cataloguing**:
 
 Cataloguing is the process of giving a vivid description to a library material with particular attention to its peculiar features
@@ -43,8 +47,12 @@ Types of Catalogue
 
 
 
+**Kind of entries:** 
+- Main entry
+- Added entry
 
-
+	- Main entry: full entry that gives all necessary information needed to identify a book in the library
+	- Added entry: Additional entry to the main one, such as joint author, title. 
 
 
 

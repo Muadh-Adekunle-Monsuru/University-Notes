@@ -42,6 +42,9 @@ Computer Programming I
 
 [[Functions and Subroutines]]
 
+Assignment:
+[Fortran Assignment 1](CPS%20201/Fortran%20Assignment%201.md)
+[201 Assignment 4](CPS%20101/Assignments/201%20Assignment%204.md)
 
 **Mr Fikayo:**
 [Introduction New](CPS%20201/Introduction%20New.md)

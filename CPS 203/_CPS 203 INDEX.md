@@ -22,6 +22,7 @@ browser-sync start --server --directory --files "*"
 **Class 2**
 [[CPS 203/Web Continuation]]
 
+[HTML Proper](CPS%20203/HTML%20Proper.md)
 Class 3:
 - [Structural Element & Links](CPS%20203/Structural%20Element%20&%20Links.md)
 - [Intro To CSS](CPS%20203/Intro%20To%20CSS.md)
@@ -33,6 +34,12 @@ Class 4:
 
 Class5:
 [[CPS 203/HTML Forms]]
+
+Class 6:
+[[CPS 203/Introduction to Javascript]]
 Assignments:
 - [[CPS 203/Assignment/203 Assignment 1 ]]
 - [203 Assignment 2](CPS%20203/Assignment/203%20Assignment%202.md)
+
+[Project](CPS%20203/Project.md)
+[[203Past Paper]]
