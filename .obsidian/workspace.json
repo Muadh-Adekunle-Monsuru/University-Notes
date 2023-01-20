@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5555ad381b90cfdb",
+        "id": "8283369b85422364",
         "type": "tabs",
         "children": [
           {
-            "id": "47512ebe93cdf049",
+            "id": "a91e9fa9763bfab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 203/203Past Paper.md",
+                "file": "GNS 101/GNS101 PAST PAPER 2 Solved.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "head ",
+                "query": "noun clause",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.50235748291016,
-    "collapsed": true
+    "width": 221.50235748291016
   },
   "right": {
     "id": "c6423d6357a6c7a4",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 203/203Past Paper.md"
+                "file": "GNS 101/GNS101 PAST PAPER 2 Solved.md"
               }
             }
           },
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 203/203Past Paper.md",
+                "file": "GNS 101/GNS101 PAST PAPER 2 Solved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 203/203Past Paper.md",
+                "file": "GNS 101/GNS101 PAST PAPER 2 Solved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,17 +148,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "47512ebe93cdf049",
+  "active": "a91e9fa9763bfab3",
   "lastOpenFiles": [
-    "CPS 101/Pasted image 20230112062451.png",
+    "GNS 101/Composition of Sentence.md",
+    "GNS 101/GNS101 PAST PAPER 2 Solved.md",
     "CPS 203/203Past Paper.md",
+    "GNS 101/GNS101 PAST PAPER 2.md",
+    "CPS 101/Pasted image 20230112062451.png",
     "CPS 203/Intro To CSS.md",
     "CPS 203/HTML Forms.md",
     "CPS 203/HTML Proper.md",
     "CPS 203/Structural Element & Links.md",
-    "CPS 203/Site Map.md",
-    "CPS 203/_CPS 203 INDEX.md",
-    "CPS 203/Assignment/203 Assignment 2.md",
-    "GNS 101/GNS101 PAST PAPER 2.md"
+    "CPS 203/Site Map.md"
   ]
 }
