@@ -64,7 +64,22 @@
 
 
 1. What are the errors in the following and find the appropriate correction
-	1. mov ax, 3d
-	2. mov cx, ch:  cx is a register and ch is the high-order byte of the cx register. TO access the value of ch as a seperate entity, you need to use a different register such as dx. 
-	3. mov eax, 1h
-zx
+	1. **mov ax, 3d:** 3d is not recognized as a valid digit by most assemblers. it it more standard to say mov ax, 3
+	2. **mov cx, ch:**  cx is a register and ch is the high-order byte of the cx register. TO access the value of ch as a seperate entity, you need to use a different register such as dx. 
+	3. **mov eax, 1h:** It is not necessarily wrong, but the standard way of representing a hexidecimal constant in x86 assembly is to prefix it with 0x. A more standard instruction would be mov eax, 0x1
+
+```Assembly
+.686
+.model flat, stdcall
+.stack 4096
+ExitProcess PROTO, dwExitCode: DWORD
+.code
+main PROC
+	mov eax, 10000h 
+	add eax, 40000h
+	sub eax, 200000h
+	push 0
+	call Exit Process
+main ENDP
+END main
+```
