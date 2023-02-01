@@ -67,3 +67,4 @@
 	1. mov ax, 3d
 	2. mov cx, ch:  cx is a register and ch is the high-order byte of the cx register. TO access the value of ch as a seperate entity, you need to use a different register such as dx. 
 	3. mov eax, 1h
+zx
