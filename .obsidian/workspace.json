@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8283369b85422364",
+        "id": "071629be23ec3b8f",
         "type": "tabs",
         "children": [
           {
-            "id": "a91e9fa9763bfab3",
+            "id": "2ea2edc29d80faee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GNS 101/GNS101 PAST PAPER 2 Solved.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GNS 101/GNS101 PAST PAPER 2 Solved.md"
-              }
+              "state": {}
             }
           },
           {
@@ -106,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNS 101/GNS101 PAST PAPER 2 Solved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNS 101/GNS101 PAST PAPER 2 Solved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,10 +140,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a91e9fa9763bfab3",
+  "active": "2ea2edc29d80faee",
   "lastOpenFiles": [
-    "GNS 101/Composition of Sentence.md",
     "GNS 101/GNS101 PAST PAPER 2 Solved.md",
+    "GNS 101/Composition of Sentence.md",
     "CPS 203/203Past Paper.md",
     "GNS 101/GNS101 PAST PAPER 2.md",
     "CPS 101/Pasted image 20230112062451.png",
