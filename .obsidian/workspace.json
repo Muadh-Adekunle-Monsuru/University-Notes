@@ -11,8 +11,12 @@
             "id": "2ea2edc29d80faee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CPS 201/Implicit None.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noun clause",
-                "matchingCase": false,
+                "query": "impli",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CPS 201/Implicit None.md"
+              }
             }
           },
           {
@@ -100,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CPS 201/Implicit None.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CPS 201/Implicit None.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,17 +148,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2ea2edc29d80faee",
+  "active": "e284dc9ecd0351cd",
   "lastOpenFiles": [
+    "CPS 201/_CPS 201 INDEX.md",
+    "MAT 201/MAT 201.md",
+    "Main Index.md",
     "GNS 101/GNS101 PAST PAPER 2 Solved.md",
     "GNS 101/Composition of Sentence.md",
     "CPS 203/203Past Paper.md",
     "GNS 101/GNS101 PAST PAPER 2.md",
     "CPS 101/Pasted image 20230112062451.png",
     "CPS 203/Intro To CSS.md",
-    "CPS 203/HTML Forms.md",
-    "CPS 203/HTML Proper.md",
-    "CPS 203/Structural Element & Links.md",
-    "CPS 203/Site Map.md"
+    "CPS 203/HTML Forms.md"
   ]
 }
