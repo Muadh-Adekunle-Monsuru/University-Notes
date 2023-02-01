@@ -4,19 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "071629be23ec3b8f",
+        "id": "d57f2eba2b2557a4",
         "type": "tabs",
         "children": [
           {
-            "id": "2ea2edc29d80faee",
+            "id": "02611bd71c541042",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 201/Implicit None.md",
-                "mode": "preview",
+                "file": "CPS 207/207 Past Question 1 Solved.md",
+                "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "5817e54e50cf86e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 207/Data Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2134b4e4885741f6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impli",
+                "query": "email",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 201/Implicit None.md"
+                "file": "CPS 207/207 Past Question 1 Solved.md"
               }
             }
           },
@@ -106,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 201/Implicit None.md",
+                "file": "CPS 207/207 Past Question 1 Solved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 201/Implicit None.md",
+                "file": "CPS 207/207 Past Question 1 Solved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,17 +168,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e284dc9ecd0351cd",
+  "active": "02611bd71c541042",
   "lastOpenFiles": [
-    "CPS 201/_CPS 201 INDEX.md",
-    "MAT 201/MAT 201.md",
-    "Main Index.md",
-    "GNS 101/GNS101 PAST PAPER 2 Solved.md",
-    "GNS 101/Composition of Sentence.md",
+    "CPS 207/207 Past Question 1 Solved.md",
+    "CPS 207/Instruction Set.md",
+    "CPS 207/Data Definition.md",
+    "CPS 207/Assembly Language 2.md",
+    "CPS 207/Hello World in Assembly.md",
+    "CPS 207/MACHINE INSTRUCTIONS.md",
+    "CPS 207/Past Question 1.md",
+    "CPS 207/Register Assignment.md",
     "CPS 203/203Past Paper.md",
-    "GNS 101/GNS101 PAST PAPER 2.md",
-    "CPS 101/Pasted image 20230112062451.png",
-    "CPS 203/Intro To CSS.md",
-    "CPS 203/HTML Forms.md"
+    "ENT 201/Business Creativity and Innovation.md"
   ]
 }

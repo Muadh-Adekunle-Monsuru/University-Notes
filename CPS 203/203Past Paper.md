@@ -27,3 +27,46 @@
 	1. **Web and Internet:** The internet is the infrastructure .of interconnected networks and the web is the services that runs on to/p of it. The web allows user to access and share information, conduct transactions, and communicate with each other. 
 	**2. Block level and Inline element**: Block element take up the full width of their parent container, create a new line before and after themselves. Inline element only take up as much width as necessary. Do not create a new line before or after themselves. Block level elements can contain inline elements but inline elements can only contain other inline elements. 
 	**3. Relative hyperlinks and absolute hyperlinks:** A relative URL points to a resource on the same website, and is defined relative to the current page. An absolute URL points to a resource on any website and is defined with the complete URL. Relative URLs are more flexible and maintainable, because they do not depend on a specific domain or path. Means that if the website's domain or file structure changes, the links will still work as long as the relative paths stay the same. Absolute URLs are less flexible because if the domain or file structure changes, the links will not work anymore. 
+
+---
+
+Methods of passing variables through pages:
+-  URL
+-  Session
+- Cookie
+- HTML Form
+
+	- URL: this is adding variables and text after the main url, called query string. It is unsecure and risky for sensitive data
+	- Session: A session is a temporary set of variables that exists only until the browser is closed. Every session is assigned a unique session ID.
+
+**Discuss the following:**
+**- Use of appropriate color scheme**
+	- Keep the target audience in mind while using colours
+	- Should be  used consistently for continuity and purpose
+	- Colour used for foreground and background should be in contrast. 
+	- Taking colour blind users into account
+**- Use of graphics:**
+	- Only necessary graphics should be used
+	- Background should not conflict with the color of the graphics 
+	- JPEG are not always supported by all browsers
+- **Tables**:
+	- Nested tables can slow performance of the website
+**- Navigation tips:**
+	- Users must know where they are on the website
+	- It must be easy for the users to navigate from page to page
+	- It must be easy to return to the homepage
+	- Navigation toolbars should be simple, uncluttered and immediately visible
+
+```CSS
+        h6{
+          font-style:bold;
+          font-weight:bold;
+          color:green;
+          font-weight:700px;
+          font-size:smaller;
+          text-align:left;
+          background-color:organe;
+          font-family:arial;  
+        }
+
+```
