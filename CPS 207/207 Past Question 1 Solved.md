@@ -62,24 +62,23 @@
 ```
 ```
 
-
-1. What are the errors in the following and find the appropriate correction
+11. What are the errors in the following and find the appropriate correction
 	1. **mov ax, 3d:** 3d is not recognized as a valid digit by most assemblers. it it more standard to say mov ax, 3
 	2. **mov cx, ch:**  cx is a register and ch is the high-order byte of the cx register. TO access the value of ch as a seperate entity, you need to use a different register such as dx. 
 	3. **mov eax, 1h:** It is not necessarily wrong, but the standard way of representing a hexidecimal constant in x86 assembly is to prefix it with 0x. A more standard instruction would be mov eax, 0x1
-
-```Assembly
-.686
-.model flat, stdcall
-.stack 4096
-ExitProcess PROTO, dwExitCode: DWORD
+12. Explain each line of code:
+```FORtran
+.686 !The directive to specify the processor type. 
+.model flat, stdcall ! Specifies the memory model and callilng convention to be used. This memory model is flat. 
+.stack 4096 ! Sets the size of the stack to 4096 bytes
+ExitProcess PROTO, dwExitCode: DWORD !This line declares a function protype for the 'ExitProcess' function. It takes a single argument, 'dwExitCode', which is a 32-bit DWORD
 .code
-main PROC
-	mov eax, 10000h 
-	add eax, 40000h
-	sub eax, 200000h
-	push 0
-	call Exit Process
-main ENDP
-END main
+main PROC !Starts the definition of the main function, labeled 'main'
+	mov eax, 10000h !moves the hexadecimal value, 0x10000 into the EAX
+	add eax, 40000h !adds the hexadecimal value 0x400000 to the value stored in the EAX
+	sub eax, 20000h ! subtracts the hexadecimal value 020000 from the value stored in the EAX
+	push 0 ! Pushed the value 0 onto the  stack
+	call Exit !calls the 'ExitProcess' function, passing the value '0' as the argument
+main ENDP !ends the definition of the main function
+END main !Indicates the end of the program and 
 ```
