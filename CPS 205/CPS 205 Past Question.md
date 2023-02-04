@@ -51,24 +51,32 @@
 	2. Hard disks and magnetic tapes
 		1. Hard disks are commonly used in desktop and laptop computers, while magnetic tapes are often used for backup and archival storage, where large amounts of data need to be stored for long periods of time. Hard disks are much faster than magnetic tapes for both reading and writing data.
 	3. DRAM and MPUs
-	4. Combinational circuits and Sequential Circuits
-	5. Laser and Inkjet Printers
+			
+		DRAM (Dynamic Random Access Memory) and MPUs (Microprocessor Units) are two distinct technologies used in computer systems.
 
-	6. List applications of DAC
-	7. Mention types of RAM
-	8. What is USB
-	9. Describe DAC and ADC
-	10. Describe the applications of combinational logic circuits
-	11. Explain the design procedures for combinational logic circutis
-	12. Mention applications of register
-	13. What is a multiplexer
-	14. Design 4 by 1 multiplexer
-	15. Convert 0101 to gray code
-	16. Construct decade 4-bit synchronous counter
-	17. Convert 9F2 to base 2
-	18. Design 8 by 3 encoder
-	19. Convert 1011.101 to decimal
-	20. convert 423 to hexadecimal
+		DRAM is a type of computer memory that is used to store data temporarily. It is used in most computers to store the operating system, applications, and data. It is relatively slow, but it provides a large capacity to store data.
+
+		MPUs, on the other hand, are the central processing units (CPUs) that execute instructions and perform calculations in a computer system. An MPU consists of an arithmetic logic unit (ALU) and control unit (CU) that work together to fetch, decode, and execute instructions. It is the "brain" of the computer and is responsible for carrying out the tasks and instructions of the operating
+	1. Combinational circuits and Sequential Circuits
+	Combinational circuits produce an output based solely on the present input, while sequential circuits have memory elements that store the output based on previous
+	3. Laser and Inkjet Printers
+
+8. List applications of DAC`
+9. Mention types of RAM
+10. What is USB
+11. Describe DAC and ADC
+12. Describe the applications of combinational logic circuits
+13. Explain the design procedures for combinational logic circutis
+14. Mention applications of register
+15. What is a multiplexer
+	
+1. Design 4 by 1 multiplexer
+2. Convert 0101 to gray code
+3. Construct decade 4-bit synchronous counter
+4. Convert 9F2 to base 2
+5. Design 8 by 3 encoder
+6. Convert 1011.101 to decimal
+7. convert 423 to hexadecimal
 		
 	
 
