@@ -46,3 +46,12 @@ With samples less than 30, **standard error** of mean is an estimate of populati
 With samples more than 30, **sample standard deviation** is an estimate of population standard deviation.
 
 The confidence intervals are quoted as a mean and range. 
+
+List and explain any four properties of a good estimator
+
+Define Regression analysis
+
+what are the characteristics of good sample
+
+what is hypothesis testing
+
