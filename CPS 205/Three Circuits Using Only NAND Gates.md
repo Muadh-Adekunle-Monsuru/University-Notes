@@ -5,7 +5,7 @@
 ![morgan|250](CPS%20205/Document/Images/images%20(1).png)
 
 
-**2-input AND Gate:**
+**2-input NAND Gate:**
 ![](CPS%20205/Document/Images/2inputand.png)
 ==Q = AB==
 

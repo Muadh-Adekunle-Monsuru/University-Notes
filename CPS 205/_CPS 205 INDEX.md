@@ -1,4 +1,4 @@
-Sections of CPS 205:
+`Sections of CPS 205:
 
 ### Computer Design:
 - Circuit Fundamentals
@@ -18,7 +18,7 @@ Mrs Abdulsalam
 Mr Akinlolu
 	[[Module 2]]
 
-Assigment:
+Assignment:
 [Simplifying Circuits](CPS%20205/Simplifying%20Circuits.md)
 
 [205 Assignment 1](CPS%20205/Assigment/205%20Assignment%201.md)

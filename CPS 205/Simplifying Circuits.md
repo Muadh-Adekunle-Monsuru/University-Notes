@@ -13,6 +13,6 @@ The minterms are ordered according to a Gray code.
 Gray code is about only one variable changing. 
 
 Squares on the edges are considered adjacent to squares on the opposite end. 
-![](CPS%20205/Document/Pasted%20image%2020221212094737.png)
+![](CPS%20205/Document/Images/Pasted%20image%2020221212094737.png)
 
 Used to simplify the expression when the inputs are 3-5 

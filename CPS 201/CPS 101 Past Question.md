@@ -13,7 +13,7 @@ Multitasking is a broader term that encompasses multiprogramming, as well as oth
 Multiprogramming is where multiple tasks are stored in memory and executed by the CPU, switching between them so that each task appears to be running simultaneously. 
 
 **Basic elements of flowcharts:**
-![](Pasted%20image%2020230201130110.png)
+![](CPS%20101/Pasted%20image%2020230201130110.png)
 
 **Steps of obtaining a JAMB form**
 1.  Visit JAMB website: jamb.gov.ng.

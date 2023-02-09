@@ -4,59 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "0f4043a8d4596de8",
+        "id": "ad5e565a2887d894",
         "type": "tabs",
         "children": [
           {
-            "id": "b9918910a86cafd2",
+            "id": "737aa6d596d38d7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 205/CPS 205 Past Question.md",
-                "mode": "source",
+                "file": "CPS 205/Unit 3.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "320173f39b6a5b47",
+            "id": "61b0857f2306d06e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 205/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c8c6c7d1a3478df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STA 201/STA Past-Papers Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "463c3514dab3910f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FUC 201.md",
+                "file": "CPS 207/Instruction Set.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "email",
+                "query": "instruction set",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.50235748291016,
-    "collapsed": true
+    "width": 220.5
   },
   "right": {
     "id": "c6423d6357a6c7a4",
@@ -134,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 205/Untitled.md"
+                "file": "CPS 205/Unit 3.md"
               }
             }
           },
@@ -144,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 205/Untitled.md",
+                "file": "CPS 205/Unit 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 205/Untitled.md",
+                "file": "CPS 205/Unit 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,17 +160,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "320173f39b6a5b47",
+  "active": "737aa6d596d38d7e",
   "lastOpenFiles": [
-    "CPS 205/CPS 205 Past Question.md",
-    "CPS 205/Untitled.md",
-    "STA 201/STA Past-Papers Notes.md",
-    "CPS 207/207 Past Question 1 Solved.md",
-    "FUC 201.md",
-    "FUC 201/FUC 201 MATERALS 2022.pdf",
-    "Main Index.md",
-    "CPS 201/FORTAN Operators.md",
-    "CPS 201/Data Types.md",
-    "CPS 201/CPS 101 Past Question.md"
+    "CPS 205/Unit 1 & 2.md",
+    "CPS 205/Three Circuits Using Only NAND Gates.md",
+    "CPS 205/Simplifying Circuits.md",
+    "CPS 205/Module 2.md",
+    "CPS 205/Module 1.md",
+    "CPS 205/Class 1.md",
+    "CPS 205/Circuit Design Cont.md",
+    "CPS 205/Circuit Design Intro.md",
+    "CPS 205/_CPS 205 INDEX.md",
+    "CPS 205/CPS 205 Past Question.md"
   ]
 }
