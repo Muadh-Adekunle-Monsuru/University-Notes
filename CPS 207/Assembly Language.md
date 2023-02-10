@@ -50,7 +50,7 @@ HLL: Z = xy +5
 
 Assembly Language:
 ```assembly
-move eax, x
+mov eax, x
 mul eax, y
 add eax, 5
 move D, eax

@@ -61,7 +61,6 @@
 	end
 ```
 ```
-
 11. What are the errors in the following and find the appropriate correction
 	1. **mov ax, 3d:** 3d is not recognized as a valid digit by most assemblers. it it more standard to say mov ax, 3
 	2. **mov cx, ch:**  cx is a register and ch is the high-order byte of the cx register. TO access the value of ch as a seperate entity, you need to use a different register such as dx. 
@@ -82,3 +81,51 @@ main PROC !Starts the definition of the main function, labeled 'main'
 main ENDP !ends the definition of the main function
 END main !Indicates the end of the program and 
 ```
+
+
+13. Difference between variables and identifiers
+	An identifier is a name given to a variable, function, or any other item in a computer program. A variable, is a container that holds a value, it can be assigned different values during the execution. 
+
+14. Instruction to evaluate 5+(6-2) leaving result in ax
+
+```Assembly
+.code
+mov bx, 6
+sub bx, 2
+mov ax, 5
+add ax, bx
+```
+
+
+15. Explain the following
+	1. Address Bus
+		1. It is used to identify where information is being sent or fetched. It identifies the source and destination of data on the data bus. If the cpu wants to read a byte of data from the memory, it puts the address of the desired data on the address lines. 
+	2. Data Bus
+		1. Carries the information being transmitted 1 bit at a time. The number of lines in a data bus is referred to as the width of the data bus. 
+	3. Control Bus
+			Describes the manner in which information is sent. Control access to data on the data and address buses. Control signals transmits both command and timing information. Command is the type of operation that should be performed on the data. While timing indicate the validity of data and address information. 
+  
+  
+15. Four Basic  microprocessor registers
+	Registers are grouped into three broad categories
+
+	- General Registers
+		- Data Registers: EAX, EBX, ECX, AX, BX, CX, AL, AH
+		- Pointer Registers: EIP, ESP, EBP, IP, SP, Bp
+		- Index Register: ESI, EDI
+	- Control Registers
+	- Segment Registers
+
+16. Explain how processor perform its functions or execute instructions with appropriate registers mentioned
+		The processor performs its functions through a series of steps:
+	1.  **Fetching:** The processor fetches an instruction from memory and stores it in the instruction register (IR).
+    
+	2.  **Decoding:** The processor decodes the instruction stored in the IR to determine what operation it represents and what data it operates on.
+    
+	3.  **Execution:** The processor performs the operation specified by the instruction, using data from the data register (DR) or memory. The result of the operation is stored in the DR.
+    
+	4.  Repeat: The processor repeats the fetch-decode-execute-store cycle until it reaches a HALT instruction, which signals the end of a program.
+
+17. When a computer is said to be a 32bit or 64bit system what does it mean
+	The terms "32-bit" and "64-bit" refer to the way a computer's processor (also called CPU), handles information. The number refers to the size of the data words that the processor can handle, with a 32-bit processor being able to handle data words of up to 32 bits, and a 64-bit processor being able to handle data words of up to 64 bits.
+	In general, a 64-bit system can handle more memory, larger data sets, and is generally faster than a 32-bit system. This is because a 64-bit processor can process more information at once, compared to 32-bit systems. 

@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ad5e565a2887d894",
+        "id": "23a4b130a6cccb9f",
         "type": "tabs",
         "children": [
           {
-            "id": "737aa6d596d38d7e",
+            "id": "cdd885920aeb2cba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 205/Unit 3.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61b0857f2306d06e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 207/Instruction Set.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -60,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "instruction set",
+                "query": "address bus",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "c6423d6357a6c7a4",
@@ -107,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CPS 205/Unit 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -118,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 205/Unit 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 205/Unit 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,17 +141,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "737aa6d596d38d7e",
+  "active": "cdd885920aeb2cba",
   "lastOpenFiles": [
-    "CPS 205/Unit 1 & 2.md",
-    "CPS 205/Three Circuits Using Only NAND Gates.md",
-    "CPS 205/Simplifying Circuits.md",
-    "CPS 205/Module 2.md",
-    "CPS 205/Module 1.md",
-    "CPS 205/Class 1.md",
-    "CPS 205/Circuit Design Cont.md",
-    "CPS 205/Circuit Design Intro.md",
-    "CPS 205/_CPS 205 INDEX.md",
-    "CPS 205/CPS 205 Past Question.md"
+    "CPS 207/Programming Languages.md",
+    "CPS 207/MACHINE INSTRUCTIONS.md",
+    "CPS 207/Hello World in Assembly.md",
+    "CPS 207/Foundations of Sequential Programming Continuation.md",
+    "CPS 207/Foundations of Sequential Programming.md",
+    "CPS 207/Data Definition.md",
+    "CPS 207/Assembly Language 2.md",
+    "CPS 207/Assembly Language.md",
+    "CPS 207/207 Past Question 1 Solved.md",
+    "CPS 207/Register Assignment.md"
   ]
 }

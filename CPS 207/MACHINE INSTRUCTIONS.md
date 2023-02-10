@@ -41,7 +41,7 @@ Lines on a bus can be classified into **three** functional groups:
 - Control lines
 	
 	- **Data**: carries the information being transmitted.  The number of lines in a data bus is referred to as the width of the data bus. Each line can carry only 1 bit at a time.
-	- **Address**: Identifies where the information is being sent or fetched.
+	- **Address**: Identifies where the information is being sent or fetched. Used to designate the source and destination of data on the data bus. If the CPU wants to read a word of  data from the memory, it puts the address of the desired word on the address lines. 
 	- **Control**: Describes the manner in which information is being sent. It controls the access to the use other data and address buses. Control signals transmit both command and timing information between system modules. Timing signals indicate the validity of data and address information. Command signals specify operations to be performed.
 
 ### Levels within Computer Architecture
