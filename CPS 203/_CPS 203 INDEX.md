@@ -42,4 +42,4 @@ Assignments:
 - [203 Assignment 2](CPS%20203/Assignment/203%20Assignment%202.md)
 
 [Project](CPS%20203/Project.md)
-[[203Past Paper]]
+[[CPS 203/203 Past Papers Solved]]

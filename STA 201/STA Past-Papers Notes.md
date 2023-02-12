@@ -16,22 +16,20 @@ A simple hypothesis is one which specifies a single specific prediction about th
 
 A composite hypothesis is made up of multiple simple hypothesis that are related to each other. 
 
-**What are type 1 errors:**
-The first of these, called a _type I error,_ is said to result if the test incorrectly calls for rejecting Ho when it is indeed correct. The second, called a _type II error,_ results if the test calls for accepting $H_0$ when it is false.
+**What are type I and II errors:**
 
-A type I error (false-positive) occurs if an investigator rejects a null hypothesis that is actually true in the population; a type II error (false-negative) occurs if the investigator fails to reject a null hypothesis that is actually false in the population.
+A type I error (false-positive) occurs if an investigator **rejects** a null hypothesis that is actually **true** in the population; 
+a type II error (false-negative) occurs if the investigator fails to reject a null hypothesis that is actually **false** in the population.
 
 **Difference between correlation and regression:**
 Correlation quantifies the strength of the linear relationship between a pair of variables, whereas regression expresses the relationship in the form of an equation.
 
 
-**One and Two tailed test**
-
-In a one-tailed test, the alternative hypothesis specifies the direction of the effect. For example, if we are testing the effect of a new drug on blood pressure, the alternative hypothesis might be that the drug will lower blood pressure, but not that it will increase blood pressure. This would be a one-tailed test because we are only interested in the direction of the effect that is specified in the alternative hypothesis.
-
-In a two-tailed test, the alternative hypothesis does not specify the direction of the effect. Instead, it only states that the effect is different from the null hypothesis. For example, in the drug example above, the alternative hypothesis might be that the drug will have any effect on blood pressure (either increase or decrease). This would be a two-tailed test because the alternative hypothesis does not specify the direction of the effect.
-
-In general, one-tailed tests are more powerful than two-tailed tests, but they are also more specific. If you have a strong prediction about the direction of the effect, a one-tailed test might be appropriate. If you are simply testing for the presence of an effect without any specific prediction about the direction, a two-tailed test might be more appropriate.
+**Differentiate between One and Two tailed test**
+	**In a one-tailed test, the alternative hypothesis specifies the direction of the effect.
+	In a two-tailed test, the alternative hypothesis does not specify the direction of the effect. Instead, it only states that the effect is different from the null hypothesis.**
+	*For example, in the drug example above, the alternative hypothesis might be that the drug will have any effect on blood pressure (either increase or decrease). This would be a two-tailed test because the alternative hypothesis does not specify the direction of the effect.*
+	*For example, if we are testing the effect of a new drug on blood pressure, the alternative hypothesis might be that the drug will lower blood pressure, but not that it will increase blood pressure. This would be a one-tailed test because we are only interested in the direction of the effect that is specified in the alternative hypothesis.*
 
 Standard error of mean is a measure of **precision**
 
@@ -45,13 +43,45 @@ With samples less than 30, **standard error** of mean is an estimate of populati
 
 With samples more than 30, **sample standard deviation** is an estimate of population standard deviation.
 
-The confidence intervals are quoted as a mean and range. 
+The confidence intervals are quoted as a **mean** and **range**. 
 
-List and explain any four properties of a good estimator
+**List and explain any four properties of a good estimator**
+	1.  **Unbiasedness**: The average of the estimator's results over many samples should be close to the true population parameter.    
+	2.  **Consistency**: A consistent estimator is one that becomes increasingly accurate as the sample size increases.
+	3.  **Efficiency**:  In other words, it provides more precise estimates with the same amount of data.
+	4.  **Sufficiency:** This means that no other estimator based on the same sample data can provide more information about the population parameter
 
-Define Regression analysis
 
-what are the characteristics of good sample
+**Define Regression analysis:** The study of the dependency of a continuous independent variable on a continuous dependent variable. 
 
-what is hypothesis testing
+**what are the characteristics of good sample**
+	1.  **Representativeness**: A good sample should be representative of the population in terms of relevant characteristics such as age, gender, income, education, etc.    
+	2.  **Randomness**: The sample should be randomly selected from the population, without bias or prejudice, so that each individual in the population has an equal chance of being selected.    
+	3.  **Large size**: A sample that is large enough will produce more accurate and reliable results than a small sample. The larger the sample size, the more representative it is likely to be of the population.    
+	4.  **Independence**: The observations in the sample should be independent of each other, meaning that the inclusion or exclusion of one individual should not affect the results for the rest of the sample.    
+	5.  **Relevance**: The sample should include only individuals or data that are relevant to the research question or study being conducted.
+    
 
+
+**what is hypothesis testing:**
+	Hypothesis testing is the process of testing the validity of postulated value or researcher's claim
+
+**5 reasons why sample may be preferred to a complete enumeration.** 
+	1. Cost-effective& Less time consuming    
+	2. It is more efficient and convenient for researcher    
+	3. It reduces the risk of data overload    
+	4. It can provide representative cross-section of the population    
+	5. Allows for studying of subgroups within a population, providing insights about said subgroups that may not be apparent from studying the population as a whole
+
+
+**What is the population in statistics:**
+	A population is defined as the entire group of individuals, items or data that we are interested in studying. 
+
+**What is sample in statistics:**
+	It is a subset of the population that is selected for study  or analysis. 
+
+**Steps in hypothesis testing:**
+	1. Determine the test statistics
+	2. Determine the critical region
+	3. Compare the calculated and tabulated values
+	4. Make a decision based on the values

@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "23a4b130a6cccb9f",
+        "id": "a99f606e76216894",
         "type": "tabs",
         "children": [
           {
-            "id": "cdd885920aeb2cba",
+            "id": "1db0ba4de7053013",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CPS 203/203 Past Papers Solved.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e1ab72f4d65a16d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 203/Structural Element & Links.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "c6423d6357a6c7a4",
@@ -92,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CPS 203/203 Past Papers Solved.md"
+              }
             }
           },
           {
@@ -101,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CPS 203/203 Past Papers Solved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CPS 203/203 Past Papers Solved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,17 +160,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cdd885920aeb2cba",
+  "active": "1db0ba4de7053013",
   "lastOpenFiles": [
-    "CPS 207/Programming Languages.md",
-    "CPS 207/MACHINE INSTRUCTIONS.md",
-    "CPS 207/Hello World in Assembly.md",
-    "CPS 207/Foundations of Sequential Programming Continuation.md",
-    "CPS 207/Foundations of Sequential Programming.md",
-    "CPS 207/Data Definition.md",
-    "CPS 207/Assembly Language 2.md",
-    "CPS 207/Assembly Language.md",
-    "CPS 207/207 Past Question 1 Solved.md",
-    "CPS 207/Register Assignment.md"
+    "CPS 203/Structural Element & Links.md",
+    "CPS 203/203 Past Papers Solved.md",
+    "CPS 203/Web.md",
+    "CPS 203/Web Continuation.md",
+    "CPS 203/HTML Forms.md",
+    "CPS 203/Intro To CSS.md",
+    "CPS 203/Introduction to Javascript.md",
+    "CPS 203/html tables.md",
+    "CPS 203/HTML Proper.md",
+    "CPS 203/Site Map.md"
   ]
 }
