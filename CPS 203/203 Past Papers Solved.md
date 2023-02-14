@@ -1,14 +1,14 @@
 1. **Write short note about:**
-	1. **Markup language:** Markup language refers to a text-encoding system consisting of a set of symbols inserted in a text document to control its structure, formatting, or the relationship between it parts
+	1. ==**Markup language==:** Markup language refers to a text-encoding system consisting of a set of symbols inserted in a text document to control its structure, formatting, or the relationship between it parts
 	2. **HTML5**: 
 		- Includes new features and elements that allows for more dynamic and interactive websites, such as the ability to play video and audio in the browser. 
 		- New semantic tags for structuring content
 		- New form controls and validations
 		- Designed to work well with other web technologies such as CSS and JavaScript
-	3. **CSS**: 
+	3. **==CSS==**: 
 		- Used for describing the presentation of a document written in a markup language. 
 		- Allows developers to control the layout, colors, fonts, and other visual elements of the web page.
-	4. **PHP**
+	4. **==PHP==**
 		- Hypertext Preprocessor
 		- Server-side scripting language that is used to dynamic web pages and dynamic web applications. 
 		- Used in conjunction with database like MySQL
@@ -17,23 +17,27 @@
 			A site map represents the structure or organization of pages in a visual manner, it is a map to guide the planner and inform the visitors. Each of the pages are represented by a box. 
 	6. **Web Application**: 
 			A web application builds on a website. It takes users inputs that affects back end  business logic and the web server typically interacts with other backend servers.
-	7. **Web Server** 
+	7. ==**Web Server** ==
 			They are used to generate and present web pages such as APACHE, ==XAMPP==, IIS (internet information service). It can generate dynamic content based on the scripting languages. It can also be part of an application server.
 	8. **Application Server:**, It does the business logic, this is a component that specifies the business functionality. 
-2. **Describe the purpose of elements:**
+	9. **==Javascript==**
+	
+`
+
+4. **Describe the purpose of elements:**
 	1. **Head**: It contains information about the document, such as the title of the page, meta data, and links to external resources such as CSS and JavaScript files. It is not displayed in the browser window.
 	2. **Body**: The body element in HTML contains the actual content of the web page that is displayed in the browser window. It includes text, images, links, and other elements that make up the visual design of the webpage. 
 	3. **Blockquote**: it is used to indicate that a section of text is quoted from another source. It is typically indented on both edges and rendered in different font or style.
 	4. **Structural Elements**: They are used to create the structure and layout of a web page. Provide a way for browsers and future developers to understand the organization and relationships between different sections of content on a page
 	5. **Phrase element:** it is used to indicate that a section of text is a specific phrase or term that is being defined or emphasized. Elements such as em, strong, mark. 
-3. **Why sending data using POST method is better than GET method:**
+5. **Why sending data using POST method is better than GET method:**
 		Using GET, the form data is converted to a single line of text and joined to the URL of the action, which could make it visible to hackers. While POST data is sent in the body of the form and therefore not visible in the URL, which makes is more secure than GET.
 4. **Differentiate between the following terms:**
 	1. **Web and Internet:** The internet is the infrastructure .of interconnected networks and the web is the services that runs on to/p of it. The web allows user to access and share information, conduct transactions, and communicate with each other. 
 		**2. Block level and Inline element**: Block element take up the full width of their parent container, create a new line before and after themselves. Inline element only take up as much width as necessary. Do not create a new line before or after themselves. Block level elements can contain inline elements but inline elements can only contain other inline elements. 
 		**3. Relative hyperlinks and absolute hyperlinks:** A relative URL points to a resource on the same website, and is defined relative to the current page. 
 		An absolute URL points to a resource on any website and is defined with the complete https URL. 
-5. **Describe the methods of passing variables through pages:**
+5. **Describe the methods of passing variables through pages:*
 	-  URL
 	-  Session
 	- Cookie
@@ -170,6 +174,8 @@
 10.  `<p>`: Defines a paragraph of text.
 ```
 
+## What is a Cookie?
 
+A cookie is often used to identify a user. A cookie is a small file that the server embeds on the user's computer. Each time the same computer requests a page with a browser, it will send the cookie too. With PHP, you can both create and retrieve cookie values.
 
 Write PHP codes to display your personal details to include Name, Matriculation Number, Email Address, Hall of residence, Room No, and favorite food 15marks
