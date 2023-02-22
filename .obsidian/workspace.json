@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9bd9af3160587bb7",
+        "id": "5d29dabf0174154b",
         "type": "tabs",
         "children": [
           {
-            "id": "178d4cb892413ba4",
+            "id": "4a8ea9574b104fc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 203/Untitled 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CPS 203/Untitled 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -106,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 203/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 203/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,17 +140,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "178d4cb892413ba4",
+  "active": "4a8ea9574b104fc8",
   "lastOpenFiles": [
-    "CPS 203/Introduction to Javascript.md",
+    "MAT 201/MAT 201.md",
+    "MAT 201/Untitled.md",
+    "STA 201/STA Past-Papers Notes.md",
+    "CPS 203/Site Map.md",
     "CPS 203/Untitled 2.md",
+    "CPS 203/Introduction to Javascript.md",
     "CPS 203/Web Continuation.md",
     "CPS 203/203 Past Papers Solved.md",
     "CPS 203/PHP Past Question.md",
-    "CPS 203/Untitled 1.md",
-    "CPS 203/Intro To CSS.md",
-    "CPS 203/Assignment/203 Assignment 2.md",
-    "CPS 203/html tables.md",
-    "CPS 203/HTML Proper.md"
+    "CPS 203/Untitled 1.md"
   ]
 }

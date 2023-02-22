@@ -85,3 +85,10 @@ The confidence intervals are quoted as a **mean** and **range**.
 	2. Determine the critical region
 	3. Compare the calculated and tabulated values
 	4. Make a decision based on the values
+
+
+Define the follo ing terms;
+(i) Interval Esti?lat
+(ii) Point Estimate
+(iii)CriticaI Region
+(iv)Signiticance Level-

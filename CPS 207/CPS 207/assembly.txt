@@ -1,0 +1,13 @@
+.686
+.model flat, stdcall
+.stack 4096
+ExitProcess PROTO, dwExitCode: DWORD
+.code
+main PROC
+	mov eax, 10000h 
+	add eax, 40000h
+	sub eax, 200000h
+	push 0
+	call Exit Process
+main ENDP
+END main
