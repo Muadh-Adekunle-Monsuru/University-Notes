@@ -13,5 +13,6 @@
   "promptDelete": false,
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": true
 }

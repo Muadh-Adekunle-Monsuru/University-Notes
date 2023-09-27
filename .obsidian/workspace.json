@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d29dabf0174154b",
+        "id": "75adade08ed40a52",
         "type": "tabs",
         "children": [
           {
-            "id": "4a8ea9574b104fc8",
+            "id": "9db953305ce9a255",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "address bus",
+                "query": "charge",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5ece0c372b944cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -91,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "STA 201/STA 201/Practice/Sta 201 Past Questions.pdf"
+              }
             }
           },
           {
@@ -100,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "STA 201/STA 201/Practice/Sta 201 Past Questions.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "STA 201/STA 201/Practice/Sta 201 Past Questions.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,8 +152,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4a8ea9574b104fc8",
+  "active": "e284dc9ecd0351cd",
   "lastOpenFiles": [
+    "STA 201/Statistical inference II.md",
+    "STA 201/_STA 201 INDEX.md",
+    "CPS 201/FORTAN Operators.md",
+    "CPS 201/Array Implementation.md",
+    "CPS 201/201 TEST Question 2.md",
+    "CPS 101/Assignments/101 Assignment 2.md",
+    "CPS 101/Binary Numbers, Boolean Logic, and gates.md",
     "MAT 201/MAT 201.md",
     "MAT 201/Untitled.md",
     "STA 201/STA Past-Papers Notes.md",
